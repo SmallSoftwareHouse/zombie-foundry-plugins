@@ -1,0 +1,109 @@
+"Phrases"
+{
+	"ZMR_End_Chat_Header_Title"
+	{
+		"#format"	"{1:d}"
+		"en"		"Match report [#{1}]"
+		"it"		"Report partita [#{1}]"
+	}
+
+	"ZMR_End_Chat_Header_Stats"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Tank {1} · Special infected {2} · Common {3}"
+		"it"		"Tank {1} · Special infected {2} · Common {3}"
+	}
+
+	"ZMR_End_Chat_Row"
+	{
+		"#format"	"{1:s},{2:d},{3:s},{4:d},{5:d}"
+		"en"		"{1}  specials {2} · tank dmg {3} · tanks {4} · FF {5}"
+		"it"		"{1}  speciali {2} · danno tank {3} · tank {4} · FF {5}"
+	}
+
+	"ZMR_End_Chat_ConsoleHint"
+	{
+		"en"		"Full report in console"
+		"it"		"Report completo in console"
+	}
+
+	"ZMR_End_Chat_Others"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} more players — see console"
+		"it"		"altri {1} in console"
+	}
+
+	"ZMR_End_Console_Title"
+	{
+		"#format"	"{1:d}"
+		"en"		"============== ZOMBIE FOUNDRY · MATCH REPORT #{1} =============="
+		"it"		"============== ZOMBIE FOUNDRY · REPORT DI PARTITA #{1} =============="
+	}
+
+	"ZMR_End_Console_Sub"
+	{
+		"#format"	"{1:s},{2:d},{3:d},{4:d},{5:s}"
+		"en"		"{1} · {2} tanks ({3} killed, {4} alive at wipe) · plugin {5}"
+		"it"		"{1} · {2} tank ({3} uccisi, {4} vivo al wipe) · plugin {5}"
+	}
+
+	"ZMR_End_Console_ColHdr"
+	{
+		"en"		"Survivor    Dmg SI  Kill SI  Kill T  Comms  HS  FF+  FF-  Taken"
+		"it"		"Survivor    Danno SI Kill SI  Kill T  Comuni HS  FF+  FF-  Subito"
+	}
+
+	"ZMR_End_Console_Total"
+	{
+		"en"		"Total"
+		"it"		"Totale"
+	}
+
+	"ZMR_End_Console_Cure"
+	{
+		"#format"	"{1:d},{2:d},{3:d},{4:d},{5:d},{6:d}"
+		"en"		"Cure    pills {1} · adrenaline {2} · medkits {3} · downed {4} · deaths {5}"
+		"it"		"Cure    pillole {1} · adrenalina {2} · medikit {3} · a terra {4} · morti {5}"
+	}
+
+	"ZMR_End_Console_Grab"
+	{
+		"#format"	"{1:d},{2:d},{3:d},{4:d},{5:d}"
+		"en"		"Grabs   Hunter {1} · Jockey {2} · Boomer {3} · Smoker {4} · Charger {5}"
+		"it"		"Prese   Hunter {1} · Jockey {2} · Boomer {3} · Smoker {4} · Charger {5}"
+	}
+
+	"ZMR_End_Console_Defense"
+	{
+		"#format"	"{1:d},{2:d},{3:d},{4:d}"
+		"en"		"Defense shoves {1} · skeet {2} · deadstop {3} · freed {4}"
+		"it"		"Difesa  spinte {1} · skeet {2} · deadstop {3} · compagni liberati {4}"
+	}
+
+	"ZMR_End_Console_TankPct"
+	{
+		"#format"	"{1:s}"
+		"en"		"Tank    {1}"
+		"it"		"Tank    {1}"
+	}
+
+	"ZMR_End_Console_TankEnv"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"        fire {1} · world {2}"
+		"it"		"        fuoco {1} · ambiente {2}"
+	}
+
+	"ZMR_Recap_Ready"
+	{
+		"en"		"Match recap ready: type !recap"
+		"it"		"Riepilogo della partita pronto: scrivi !recap"
+	}
+
+	"ZMR_Recap_NotReady"
+	{
+		"en"		"Recap not available yet"
+		"it"		"Riepilogo non ancora disponibile"
+	}
+}

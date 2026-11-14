@@ -1,0 +1,38 @@
+# Zombie Foundry plugins for Left 4 Dead 2
+
+SourceMod plugins for Left 4 Dead 2 dedicated servers, free software under the
+[GNU General Public License v3.0 or later](LICENSE).
+
+| Plugin | What it does | Needs |
+|---|---|---|
+| [Zombie Foundry Core](core/) | Shared library for the other plugins (MOTD, player preferences, storage) | SourceMod |
+| [Match Report](match-report/) | Per-round match statistics | SourceMod, Left4DHooks, Zombie Foundry Core |
+| [Tank Warning](tank-warning/) | Audio warning when a Tank aims and throws a rock | SourceMod, Left4DHooks, Zombie Foundry Core |
+
+Tested on SourceMod 1.12 with Metamod:Source 1.12.
+
+## Building
+
+Compile each `.sp` file in `*/scripting/` with the SourceMod compiler (`spcomp`), adding these include
+folders:
+
+- SourceMod's own includes;
+- the Left4DHooks includes (Match Report and Tank Warning);
+- `core/include` (Match Report and Tank Warning use `zf_core.inc`).
+
+## Installing
+
+Copy the compiled `.smx` files into `addons/sourcemod/plugins/` and the `translations/` files into
+`addons/sourcemod/translations/`.
+
+## Sounds
+
+The Tank Warning uses one of the game's own sounds by default. Custom sounds are not included in this
+repository: to use your own, set `zf_tw_custom_sound 1` and point `zf_tw_sound_windup` and
+`zf_tw_sound_launch` to files under `sound/`.
+
+## License
+
+Copyright (C) 2026 Zombie Foundry. These plugins are free software: you can redistribute them and/or
+modify them under the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later version. See [LICENSE](LICENSE).
