@@ -10,5 +10,9 @@
   "zfstrippermapeditor": {
     "latest": "0.63.1",
     "previous": ""
+  },
+  "zftankwarning": {
+    "latest": "0.2.30",
+    "previous": ""
   }
 }
