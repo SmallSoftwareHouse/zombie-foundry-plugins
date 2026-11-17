@@ -32,9 +32,9 @@ The Stripper Map Editor also has an optional game mode, `zfstrippermapeditor`: c
 
 ## Sounds
 
-The Tank Warning uses one of the game's own sounds by default. Custom sounds are not included in this
-repository: to use your own, set `zf_tw_custom_sound 1` and point `zf_tw_sound_windup` and
-`zf_tw_sound_launch` to files under `sound/`.
+The Tank Warning ships its own warning sounds in `tank-warning/sound/`: copy that folder into
+`left4dead2/`. Players hear them if they have the files too (the Zombie Foundry - Tank Warning addon on
+the Steam Workshop); otherwise the plugin falls back to one of the game's own sounds.
 
 ## License
 
