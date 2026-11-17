@@ -1,0 +1,2794 @@
+"Phrases"
+{
+	"state_on"
+	{
+		"en"		"on"
+		"it"		"acceso"
+		"de"		"an"
+		"es"		"activado"
+		"fr"		"activé"
+		"ru"		"вкл."
+	}
+	"state_off"
+	{
+		"en"		"off"
+		"it"		"spento"
+		"de"		"aus"
+		"es"		"desactivado"
+		"fr"		"désactivé"
+		"ru"		"выкл."
+	}
+	"speed_slow"
+	{
+		"en"		"slow"
+		"it"		"lenta"
+		"de"		"langsam"
+		"es"		"lenta"
+		"fr"		"lente"
+		"ru"		"медленно"
+	}
+	"speed_medium"
+	{
+		"en"		"medium"
+		"it"		"media"
+		"de"		"mittel"
+		"es"		"media"
+		"fr"		"moyenne"
+		"ru"		"средне"
+	}
+	"speed_normal"
+	{
+		"en"		"normal"
+		"it"		"normale"
+		"de"		"normal"
+		"es"		"normal"
+		"fr"		"normale"
+		"ru"		"обычно"
+	}
+	"noclip_state"
+	{
+		"#format"	"{1:s}"
+		"en"		"Noclip {1}"
+		"it"		"Noclip {1}"
+		"de"		"Noclip {1}"
+		"es"		"Noclip {1}"
+		"fr"		"Noclip {1}"
+		"ru"		"Noclip {1}"
+	}
+	"speed_state"
+	{
+		"#format"	"{1:s}"
+		"en"		"Speed: {1}"
+		"it"		"Velocità: {1}"
+		"de"		"Tempo: {1}"
+		"es"		"Velocidad: {1}"
+		"fr"		"Vitesse : {1}"
+		"ru"		"Скорость: {1}"
+	}
+	"not_authorized"
+	{
+		"en"		"You are not authorized to use the Stripper Map Editor."
+		"it"		"Non sei autorizzato allo Stripper Map Editor."
+		"de"		"Du darfst den Stripper Map Editor nicht benutzen."
+		"es"		"No tienes permiso para usar el Stripper Map Editor."
+		"fr"		"Tu n'as pas le droit d'utiliser le Stripper Map Editor."
+		"ru"		"У тебя нет прав на Stripper Map Editor."
+	}
+	"editor_busy"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} is already in the editor. One at a time."
+		"it"		"C'è già qualcuno nell'editor ({1}). Uno alla volta."
+		"de"		"{1} ist bereits im Editor. Einer nach dem anderen."
+		"es"		"{1} ya está en el editor. De uno en uno."
+		"fr"		"{1} est déjà dans l'éditeur. Un à la fois."
+		"ru"		"{1} уже в редакторе. По одному."
+	}
+	"map_reloading_editor_mode"
+	{
+		"en"		"Stripper Map Editor: the map is reloading in editor mode."
+		"it"		"Stripper Map Editor: la mappa si ricarica in modalità editor."
+		"de"		"Stripper Map Editor: Die Karte wird im Editor-Modus neu geladen."
+		"es"		"Stripper Map Editor: el mapa se recarga en modo editor."
+		"fr"		"Stripper Map Editor : la carte se recharge en mode éditeur."
+		"ru"		"Stripper Map Editor: карта перезагружается в режиме редактора."
+	}
+	"welcome"
+	{
+		"en"		"Stripper Map Editor. Look at an object and press Use to grab it. Press 0 in the menu to exit."
+		"it"		"Stripper Map Editor. Guarda un oggetto e premi Usa per afferrarlo. 0 nel menu per uscire."
+		"de"		"Stripper Map Editor. Schau ein Objekt an und drücke Benutzen, um es zu greifen. Im Menü beendet 0 den Editor."
+		"es"		"Stripper Map Editor. Mira un objeto y pulsa Usar para cogerlo. En el menú, 0 sale del editor."
+		"fr"		"Stripper Map Editor. Regarde un objet et appuie sur Utiliser pour le prendre. Dans le menu, 0 quitte l'éditeur."
+		"ru"		"Stripper Map Editor. Посмотри на предмет и нажми «Использовать», чтобы взять его. В меню 0 — выход из редактора."
+	}
+	"left_editor"
+	{
+		"en"		"You left the editor."
+		"it"		"Sei uscito dall'editor."
+		"de"		"Du hast den Editor verlassen."
+		"es"		"Has salido del editor."
+		"fr"		"Tu as quitté l'éditeur."
+		"ru"		"Ты вышел из редактора."
+	}
+	"reading_objects"
+	{
+		"en"		"Reading the map objects..."
+		"it"		"Leggo gli oggetti della mappa..."
+		"de"		"Lese die Objekte der Karte..."
+		"es"		"Leyendo los objetos del mapa..."
+		"fr"		"Lecture des objets de la carte..."
+		"ru"		"Читаю предметы карты..."
+	}
+	"dump_missing"
+	{
+		"#format"	"{1:s}"
+		"en"		"Cannot find the dump in {1}. Is Stripper loaded?"
+		"it"		"Non trovo il dump in {1}. Stripper è caricato?"
+		"de"		"Dump in {1} nicht gefunden. Ist Stripper geladen?"
+		"es"		"No se encuentra el volcado en {1}. ¿Está cargado Stripper?"
+		"fr"		"Dump introuvable dans {1}. Stripper est-il chargé ?"
+		"ru"		"Дамп в {1} не найден. Stripper загружен?"
+	}
+	"objects_found"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} objects found."
+		"it"		"{1} oggetti trovati."
+		"de"		"{1} Objekte gefunden."
+		"es"		"{1} objetos encontrados."
+		"fr"		"{1} objets trouvés."
+		"ru"		"Найдено предметов: {1}."
+	}
+	"no_movable"
+	{
+		"en"		"No movable objects on this map."
+		"it"		"Nessun oggetto spostabile in questa mappa."
+		"de"		"Auf dieser Karte gibt es keine verschiebbaren Objekte."
+		"es"		"No hay objetos movibles en este mapa."
+		"fr"		"Il n'y a aucun objet déplaçable sur cette carte."
+		"ru"		"На этой карте нет перемещаемых предметов."
+	}
+	"no_hammerid"
+	{
+		"en"		"This object has no hammerid: it cannot be moved."
+		"it"		"Questo oggetto non ha hammerid: non si può spostare."
+		"de"		"Dieses Objekt hat keine Hammer-ID: Es kann nicht verschoben werden."
+		"es"		"Este objeto no tiene ID de Hammer: no se puede mover."
+		"fr"		"Cet objet n'a pas d'ID Hammer : il ne peut pas être déplacé."
+		"ru"		"У этого предмета нет Hammer ID: его нельзя переместить."
+	}
+	"select_first"
+	{
+		"en"		"Select an object first."
+		"it"		"Prima seleziona un oggetto."
+		"de"		"Wähle zuerst ein Objekt aus."
+		"es"		"Primero selecciona un objeto."
+		"fr"		"Sélectionne d'abord un objet."
+		"ru"		"Сначала выбери предмет."
+	}
+	"nothing_to_undo"
+	{
+		"en"		"Nothing to undo."
+		"it"		"Niente da annullare."
+		"de"		"Nichts rückgängig zu machen."
+		"es"		"Nada que deshacer."
+		"fr"		"Rien à annuler."
+		"ru"		"Нечего отменять."
+	}
+	"unsaved_reminder"
+	{
+		"#format"	"{1:d}"
+		"en"		"There are {1} unpublished changes from last time: they are still here, remember to publish."
+		"it"		"Ci sono {1} modifiche non pubblicate dall'ultima volta: sono ancora qui, ricordati di pubblicare."
+		"de"		"Vom letzten Mal sind noch {1} unveröffentlichte Änderungen da: Denk daran, sie zu veröffentlichen."
+		"es"		"Quedan {1} cambios sin publicar de la última vez: recuerda publicarlos."
+		"fr"		"Il reste {1} modifications non publiées de la dernière fois : pense à les publier."
+		"ru"		"С прошлого раза осталось неопубликованных изменений: {1}. Не забудь их опубликовать."
+	}
+	"read_objects_first"
+	{
+		"en"		"Read the map objects first."
+		"it"		"Prima leggi gli oggetti della mappa."
+		"de"		"Lies zuerst die Objekte der Karte."
+		"es"		"Primero lee los objetos del mapa."
+		"fr"		"Lis d'abord les objets de la carte."
+		"ru"		"Сначала прочитай предметы карты."
+	}
+	"cannot_write"
+	{
+		"#format"	"{1:s}"
+		"en"		"Cannot write in {1}."
+		"it"		"Non riesco a scrivere in {1}."
+		"de"		"Kann nicht in {1} schreiben."
+		"es"		"No se puede escribir en {1}."
+		"fr"		"Impossible d'écrire dans {1}."
+		"ru"		"Не удаётся записать в {1}."
+	}
+	"save_failed"
+	{
+		"#format"	"{1:s}"
+		"en"		"Publishing failed (temporary file in {1})."
+		"it"		"Pubblicazione non riuscita (file temporaneo in {1})."
+		"de"		"Veröffentlichen fehlgeschlagen (temporäre Datei in {1})."
+		"es"		"Error al publicar (archivo temporal en {1})."
+		"fr"		"Échec de la publication (fichier temporaire dans {1})."
+		"ru"		"Ошибка публикации (временный файл в {1})."
+	}
+	"saved"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Published: {1} moved objects in {2}."
+		"it"		"Pubblicato: {1} oggetti spostati in {2}."
+		"de"		"Veröffentlicht: {1} verschobene Objekte in {2}."
+		"es"		"Publicado: {1} objetos movidos en {2}."
+		"fr"		"Publié : {1} objets déplacés dans {2}."
+		"ru"		"Опубликовано: перемещено предметов {1}, файл {2}."
+	}
+	"map_reloading_3s"
+	{
+		"en"		"The map reloads in 3 seconds (Stripper Map Editor)."
+		"it"		"La mappa si ricarica fra 3 secondi (Stripper Map Editor)."
+		"de"		"Die Karte wird in 3 Sekunden neu geladen (Stripper Map Editor)."
+		"es"		"El mapa se recarga en 3 segundos (Stripper Map Editor)."
+		"fr"		"La carte se recharge dans 3 secondes (Stripper Map Editor)."
+		"ru"		"Карта перезагрузится через 3 секунды (Stripper Map Editor)."
+	}
+	"no_size"
+	{
+		"en"		"I don't know the size of this object."
+		"it"		"Non conosco l'ingombro di questo oggetto."
+		"de"		"Die Größe dieses Objekts ist unbekannt."
+		"es"		"No se conoce el tamaño de este objeto."
+		"fr"		"La taille de cet objet est inconnue."
+		"ru"		"Размер этого предмета неизвестен."
+	}
+	"reverted_n"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} objects reverted to the original. Undo to go back, Publish to write it to the file."
+		"it"		"{1} oggetti riportati all'originale. Annulla per tornare indietro, Pubblica per scriverlo nel file."
+		"de"		"{1} Objekte auf das Original zurückgesetzt. Rückgängig macht es ungeschehen, Veröffentlichen schreibt es in die Datei."
+		"es"		"{1} objetos devueltos al original. Deshacer lo anula; Publicar lo escribe en el archivo."
+		"fr"		"{1} objets remis à l'original. Annuler revient en arrière, Publier l'écrit dans le fichier."
+		"ru"		"Возвращено на место предметов: {1}. «Отменить» вернёт как было, «Опубликовать» запишет в файл."
+	}
+	"cannot_create_copy"
+	{
+		"en"		"Cannot create the physics copy of this object."
+		"it"		"Non riesco a creare la copia fisica di questo oggetto."
+		"de"		"Die Physik-Kopie dieses Objekts kann nicht erstellt werden."
+		"es"		"No se puede crear la copia física de este objeto."
+		"fr"		"Impossible de créer la copie physique de cet objet."
+		"ru"		"Не удаётся создать физическую копию этого предмета."
+	}
+	"copy_vanished"
+	{
+		"en"		"The physics copy vanished: this object cannot fall."
+		"it"		"La copia fisica è sparita: questo oggetto non può cadere."
+		"de"		"Die Physik-Kopie ist verschwunden: Dieses Objekt kann nicht fallen."
+		"es"		"La copia física ha desaparecido: este objeto no puede caer."
+		"fr"		"La copie physique a disparu : cet objet ne peut pas tomber."
+		"ru"		"Физическая копия исчезла: этот предмет не может упасть."
+	}
+	"hint_grab"
+	{
+		"en"		"Move: the object follows your crosshair, the floor shows where it will land.\n%%+attack%%: closer. %%+attack2%%: farther."
+		"it"		"Spostamento: l'oggetto sta sul mirino, a terra vedi dove finirà.\n%%+attack%%: avvicina. %%+attack2%%: allontana."
+		"de"		"Verschieben: Das Objekt folgt dem Fadenkreuz, der Boden zeigt, wo es landet.\n%%+attack%%: näher. %%+attack2%%: weiter weg."
+		"es"		"Mover: el objeto sigue la mira, el suelo muestra dónde caerá.\n%%+attack%%: acercar. %%+attack2%%: alejar."
+		"fr"		"Déplacer : l'objet suit le viseur, le sol montre où il atterrira.\n%%+attack%% : rapprocher. %%+attack2%% : éloigner."
+		"ru"		"Перемещение: предмет следует за прицелом, на полу видно, куда он упадёт.\n%%+attack%%: ближе. %%+attack2%%: дальше."
+	}
+	"hint_look"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} #{2} — %%+use%% to grab it"
+		"it"		"{1} #{2} — %%+use%% per afferrarlo"
+		"de"		"{1} #{2} — %%+use%% zum Greifen"
+		"es"		"{1} #{2} — %%+use%% para cogerlo"
+		"fr"		"{1} #{2} — %%+use%% pour le prendre"
+		"ru"		"{1} #{2} — %%+use%%, чтобы взять"
+	}
+	"hint_placed"
+	{
+		"en"		"Placed. %%+use%% to pick it up again."
+		"it"		"Posato. %%+use%% per riprenderlo."
+		"de"		"Abgestellt. %%+use%% hebt es wieder auf."
+		"es"		"Colocado. %%+use%% para cogerlo de nuevo."
+		"fr"		"Posé. %%+use%% pour le reprendre."
+		"ru"		"Поставлено. %%+use%%, чтобы взять снова."
+	}
+	"hint_stuck"
+	{
+		"en"		"You are inside a wall: move out before turning noclip off."
+		"it"		"Sei dentro un muro: spostati fuori prima di spegnere il noclip."
+		"de"		"Du steckst in einer Wand: Geh heraus, bevor du Noclip ausschaltest."
+		"es"		"Estás dentro de una pared: sal antes de desactivar el noclip."
+		"fr"		"Tu es dans un mur : sors avant de désactiver le noclip."
+		"ru"		"Ты в стене: выйди, прежде чем выключать noclip."
+	}
+	"hint_fine"
+	{
+		"en"		"Fine move: movement moves the object along fixed axes.\nYou stay still, the view is free."
+		"it"		"Spostamento fine: il movimento sposta l'oggetto su assi fissi.\nTu resti fermo, la vista è libera."
+		"de"		"Feinbewegung: Die Bewegungstasten verschieben das Objekt entlang fester Achsen.\nDu bleibst stehen, die Sicht ist frei."
+		"es"		"Movimiento fino: las teclas de movimiento desplazan el objeto en ejes fijos.\nTú te quedas quieto, la vista está libre."
+		"fr"		"Déplacement fin : les touches de déplacement bougent l'objet sur des axes fixes.\nTu restes immobile, la vue est libre."
+		"ru"		"Точное перемещение: клавиши движения двигают предмет по фиксированным осям.\nТы стоишь на месте, обзор свободен."
+	}
+	"hint_step"
+	{
+		"#format"	"{1:s}"
+		"en"		"Step: {1} (degrees for rotations)"
+		"it"		"Scatto: {1} (gradi per le rotazioni)"
+		"de"		"Schritt: {1} (Grad bei Drehungen)"
+		"es"		"Paso: {1} (grados en las rotaciones)"
+		"fr"		"Pas : {1} (degrés pour les rotations)"
+		"ru"		"Шаг: {1} (градусы при вращении)"
+	}
+	"hint_pose"
+	{
+		"#format"	"{1:s}"
+		"en"		"Pose: {1}"
+		"it"		"Posa: {1}"
+		"de"		"Lage: {1}"
+		"es"		"Posición: {1}"
+		"fr"		"Position : {1}"
+		"ru"		"Положение: {1}"
+	}
+	"hint_pause"
+	{
+		"en"		"Paused: move and look around. %%+jump%% to resume."
+		"it"		"Pausa: muoviti e guarda. %%+jump%% per riprendere."
+		"de"		"Pause: beweg dich und schau dich um. %%+jump%% zum Fortsetzen."
+		"es"		"Pausa: muévete y mira a tu alrededor. %%+jump%% para continuar."
+		"fr"		"Pause : bouge et regarde autour de toi. %%+jump%% pour reprendre."
+		"ru"		"Пауза: двигайся и осматривайся. %%+jump%% — продолжить."
+	}
+	"hint_fine_short"
+	{
+		"en"		"Fine move: movement moves the object."
+		"it"		"Spostamento fine: il movimento sposta l'oggetto."
+		"de"		"Feinbewegung: Die Bewegungstasten verschieben das Objekt."
+		"es"		"Movimiento fino: las teclas de movimiento desplazan el objeto."
+		"fr"		"Déplacement fin : les touches de déplacement bougent l'objet."
+		"ru"		"Точное перемещение: клавиши движения двигают предмет."
+	}
+	"hint_combo"
+	{
+		"en"		"Move and rotate: movement moves, mouse rotates.\n%%+attack%%: change axis. %%+attack2%%: 15°. %%+jump%%: pause."
+		"it"		"Sposta e ruota: movimento sposta, mouse ruota.\n%%+attack%%: cambia asse. %%+attack2%%: 15°. %%+jump%%: pausa."
+		"de"		"Verschieben und drehen: Bewegung verschiebt, die Maus dreht.\n%%+attack%%: Achse wechseln. %%+attack2%%: 15°. %%+jump%%: Pause."
+		"es"		"Mover y girar: el movimiento desplaza, el ratón gira.\n%%+attack%%: cambiar eje. %%+attack2%%: 15°. %%+jump%%: pausa."
+		"fr"		"Déplacer et tourner : le déplacement bouge, la souris tourne.\n%%+attack%% : changer d'axe. %%+attack2%% : 15°. %%+jump%% : pause."
+		"ru"		"Перемещение и вращение: движение двигает, мышь вращает.\n%%+attack%%: сменить ось. %%+attack2%%: 15°. %%+jump%%: пауза."
+	}
+	"hint_wall_none"
+	{
+		"en"		"I can't see any surface: look at the wall."
+		"it"		"Non vedo nessuna superficie: guarda il muro."
+		"de"		"Keine Fläche zu sehen: Schau auf die Wand."
+		"es"		"No se ve ninguna superficie: mira la pared."
+		"fr"		"Aucune surface visible : regarde le mur."
+		"ru"		"Поверхность не видна: посмотри на стену."
+	}
+	"hint_wall_floor"
+	{
+		"en"		"That is a floor or a ledge: look at a wall."
+		"it"		"Quello è un pavimento o un piano: guarda un muro."
+		"de"		"Das ist ein Boden oder eine Kante: Schau auf eine Wand."
+		"es"		"Eso es un suelo o un borde: mira una pared."
+		"fr"		"C'est un sol ou un bord : regarde un mur."
+		"ru"		"Это пол или край: посмотри на стену."
+	}
+	"hint_wall_aligned"
+	{
+		"#format"	"{1:s}"
+		"en"		"Aligned to the wall ({1}°): forward goes toward the wall, left/right along it."
+		"it"		"Allineato al muro ({1}°): avanti verso il muro, sinistra/destra lungo il muro."
+		"de"		"An der Wand ausgerichtet ({1}°): Vorwärts geht zur Wand, links/rechts an ihr entlang."
+		"es"		"Alineado con la pared ({1}°): adelante va hacia la pared, izquierda/derecha a lo largo de ella."
+		"fr"		"Aligné sur le mur ({1}°) : avancer va vers le mur, gauche/droite le long du mur."
+		"ru"		"Выровнено по стене ({1}°): вперёд — к стене, влево/вправо — вдоль неё."
+	}
+	"hint_map_axes"
+	{
+		"en"		"Map axes."
+		"it"		"Assi della mappa."
+		"de"		"Achsen der Karte."
+		"es"		"Ejes del mapa."
+		"fr"		"Axes de la carte."
+		"ru"		"Оси карты."
+	}
+	"hint_wall_pick"
+	{
+		"en"		"Look at the wall and press %%+use%% or %%+attack%% to confirm.\n%%+attack2%% to cancel."
+		"it"		"Guarda il muro e premi %%+use%% o %%+attack%% per confermare.\n%%+attack2%% annulla."
+		"de"		"Schau auf die Wand und drücke %%+use%% oder %%+attack%% zum Bestätigen.\n%%+attack2%% zum Abbrechen."
+		"es"		"Mira la pared y pulsa %%+use%% o %%+attack%% para confirmar.\n%%+attack2%% para cancelar."
+		"fr"		"Regarde le mur et appuie sur %%+use%% ou %%+attack%% pour confirmer.\n%%+attack2%% pour annuler."
+		"ru"		"Посмотри на стену и нажми %%+use%% или %%+attack%% для подтверждения.\n%%+attack2%% — отмена."
+	}
+	"hint_wall_cancelled"
+	{
+		"en"		"Alignment cancelled."
+		"it"		"Allineamento annullato."
+		"de"		"Ausrichtung abgebrochen."
+		"es"		"Alineación cancelada."
+		"fr"		"Alignement annulé."
+		"ru"		"Выравнивание отменено."
+	}
+	"box_wall_ok"
+	{
+		"en"		"Wall under the crosshair: %%+use%% or %%+attack%% to confirm.\n%%+attack2%% cancels."
+		"it"		"Muro sotto il mirino: %%+use%% o %%+attack%% per confermare.\n%%+attack2%% annulla."
+		"de"		"Wand im Fadenkreuz: %%+use%% oder %%+attack%% zum Bestätigen.\n%%+attack2%% bricht ab."
+		"es"		"Pared en la mira: %%+use%% o %%+attack%% para confirmar.\n%%+attack2%% cancela."
+		"fr"		"Mur dans le viseur : %%+use%% ou %%+attack%% pour confirmer.\n%%+attack2%% annule."
+		"ru"		"Стена в прицеле: %%+use%% или %%+attack%% — подтвердить.\n%%+attack2%% — отмена."
+	}
+	"box_not_wall"
+	{
+		"en"		"That is not a wall: look at a wall.\n%%+attack2%% cancels."
+		"it"		"Questo non è un muro: guarda un muro.\n%%+attack2%% annulla."
+		"de"		"Das ist keine Wand: Schau auf eine Wand.\n%%+attack2%% bricht ab."
+		"es"		"Eso no es una pared: mira una pared.\n%%+attack2%% cancela."
+		"fr"		"Ce n'est pas un mur : regarde un mur.\n%%+attack2%% annule."
+		"ru"		"Это не стена: посмотри на стену.\n%%+attack2%% — отмена."
+	}
+	"hint_no_others"
+	{
+		"en"		"There are no other objects of this type."
+		"it"		"Non ci sono altri oggetti di questo tipo."
+		"de"		"Es gibt keine weiteren Objekte dieser Art."
+		"es"		"No hay más objetos de este tipo."
+		"fr"		"Il n'y a pas d'autres objets de ce type."
+		"ru"		"Других предметов этого типа нет."
+	}
+	"hint_nothing_redo"
+	{
+		"en"		"Nothing to redo."
+		"it"		"Niente da ripetere."
+		"de"		"Nichts zu wiederholen."
+		"es"		"Nada que rehacer."
+		"fr"		"Rien à rétablir."
+		"ru"		"Нечего повторять."
+	}
+	"box_move"
+	{
+		"#format"	"{1:s}"
+		"en"		"Move: object {1} m from you\n%%+attack%% closer · %%+attack2%% farther"
+		"it"		"Spostamento: oggetto a {1} m da te\n%%+attack%% avvicina · %%+attack2%% allontana"
+		"de"		"Verschieben: Objekt {1} m von dir\n%%+attack%% näher · %%+attack2%% weiter weg"
+		"es"		"Mover: objeto a {1} m de ti\n%%+attack%% acercar · %%+attack2%% alejar"
+		"fr"		"Déplacer : objet à {1} m de toi\n%%+attack%% rapprocher · %%+attack2%% éloigner"
+		"ru"		"Перемещение: предмет в {1} м от тебя\n%%+attack%% ближе · %%+attack2%% дальше"
+	}
+	"box_fine_moving"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Fine move: {1} cm forward (W), {2} cm right (D)\nMovement moves · %%+jump%% pause"
+		"it"		"Spostamento fine: {1} cm avanti (W), {2} cm a destra (D)\nMovimento sposta · %%+jump%% pausa"
+		"de"		"Feinbewegung: {1} cm vorwärts (W), {2} cm rechts (D)\nBewegung verschiebt · %%+jump%% Pause"
+		"es"		"Movimiento fino: {1} cm adelante (W), {2} cm a la derecha (D)\nEl movimiento desplaza · %%+jump%% pausa"
+		"fr"		"Déplacement fin : {1} cm en avant (W), {2} cm à droite (D)\nLe déplacement bouge · %%+jump%% pause"
+		"ru"		"Точное перемещение: {1} см вперёд (W), {2} см вправо (D)\nДвижение двигает · %%+jump%% пауза"
+	}
+	"box_fine_idle"
+	{
+		"en"		"Fine move: movement moves the object\nYou stay still · %%+jump%%: pause"
+		"it"		"Spostamento fine: il movimento sposta l'oggetto\nTu resti fermo · %%+jump%%: pausa"
+		"de"		"Feinbewegung: Bewegung verschiebt das Objekt\nDu bleibst stehen · %%+jump%%: Pause"
+		"es"		"Movimiento fino: el movimiento desplaza el objeto\nTú te quedas quieto · %%+jump%%: pausa"
+		"fr"		"Déplacement fin : le déplacement bouge l'objet\nTu restes immobile · %%+jump%% : pause"
+		"ru"		"Точное перемещение: движение двигает предмет\nТы стоишь на месте · %%+jump%%: пауза"
+	}
+	"box_rotation"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Rotation - axis {1}: {2}°\n{3} Left: change axis. Right: 15° step."
+		"it"		"Rotazione - asse {1}: {2}°\n{3} Sinistro: cambia asse. Destro: scatto di 15°."
+		"de"		"Drehung - Achse {1}: {2}°\n{3} Links: Achse wechseln. Rechts: 15°-Schritt."
+		"es"		"Rotación - eje {1}: {2}°\n{3} Izquierdo: cambiar eje. Derecho: paso de 15°."
+		"fr"		"Rotation - axe {1} : {2}°\n{3} Gauche : changer d'axe. Droit : pas de 15°."
+		"ru"		"Вращение - ось {1}: {2}°\n{3} Левая: сменить ось. Правая: шаг 15°."
+	}
+	"box_rot_help_combo"
+	{
+		"en"		"Movement: move. Mouse: rotate."
+		"it"		"Movimento: sposta. Mouse: ruota."
+		"de"		"Bewegung: verschieben. Maus: drehen."
+		"es"		"Movimiento: desplazar. Ratón: girar."
+		"fr"		"Déplacement : bouger. Souris : tourner."
+		"ru"		"Движение: двигать. Мышь: вращать."
+	}
+	"box_rot_help"
+	{
+		"en"		"Mouse or A/D: rotate."
+		"it"		"Mouse o A/D: ruota."
+		"de"		"Maus oder A/D: drehen."
+		"es"		"Ratón o A/D: girar."
+		"fr"		"Souris ou A/D : tourner."
+		"ru"		"Мышь или A/D: вращать."
+	}
+	"hint_signal"
+	{
+		"#format"	"{1:s},{2:s},{3:d},{4:s},{5:s},{6:s}"
+		"en"		"{1}: {2} #{3}\n{4} m, {5}{6}"
+		"it"		"{1}: {2} #{3}\n{4} m, {5}{6}"
+		"de"		"{1}: {2} #{3}\n{4} m, {5}{6}"
+		"es"		"{1}: {2} #{3}\n{4} m, {5}{6}"
+		"fr"		"{1} : {2} #{3}\n{4} m, {5}{6}"
+		"ru"		"{1}: {2} #{3}\n{4} м, {5}{6}"
+	}
+	"verb_undone"
+	{
+		"en"		"Undone"
+		"it"		"Annullato"
+		"de"		"Rückgängig"
+		"es"		"Deshecho"
+		"fr"		"Annulé"
+		"ru"		"Отменено"
+	}
+	"verb_redone"
+	{
+		"en"		"Redone"
+		"it"		"Ripetuto"
+		"de"		"Wiederholt"
+		"es"		"Rehecho"
+		"fr"		"Rétabli"
+		"ru"		"Повторено"
+	}
+	"dir_near"
+	{
+		"en"		"close by"
+		"it"		"qui vicino"
+		"de"		"ganz nah"
+		"es"		"muy cerca"
+		"fr"		"tout près"
+		"ru"		"совсем рядом"
+	}
+	"dir_front"
+	{
+		"en"		"in front of you"
+		"it"		"davanti a te"
+		"de"		"vor dir"
+		"es"		"delante de ti"
+		"fr"		"devant toi"
+		"ru"		"перед тобой"
+	}
+	"dir_behind"
+	{
+		"en"		"behind you"
+		"it"		"dietro di te"
+		"de"		"hinter dir"
+		"es"		"detrás de ti"
+		"fr"		"derrière toi"
+		"ru"		"позади тебя"
+	}
+	"dir_left"
+	{
+		"en"		"to your left"
+		"it"		"a sinistra"
+		"de"		"links von dir"
+		"es"		"a tu izquierda"
+		"fr"		"à ta gauche"
+		"ru"		"слева от тебя"
+	}
+	"dir_right"
+	{
+		"en"		"to your right"
+		"it"		"a destra"
+		"de"		"rechts von dir"
+		"es"		"a tu derecha"
+		"fr"		"à ta droite"
+		"ru"		"справа от тебя"
+	}
+	"alt_up"
+	{
+		"en"		", above"
+		"it"		", in alto"
+		"de"		", oben"
+		"es"		", arriba"
+		"fr"		", en haut"
+		"ru"		", вверху"
+	}
+	"alt_down"
+	{
+		"en"		", below"
+		"it"		", in basso"
+		"de"		", unten"
+		"es"		", abajo"
+		"fr"		", en bas"
+		"ru"		", внизу"
+	}
+	"pose_flat"
+	{
+		"en"		"flat"
+		"it"		"di piatto"
+		"de"		"liegend"
+		"es"		"tumbado"
+		"fr"		"couché"
+		"ru"		"лёжа"
+	}
+	"pose_flat_inv"
+	{
+		"en"		"flat, upside down"
+		"it"		"di piatto capovolto"
+		"de"		"liegend, umgedreht"
+		"es"		"tumbado, del revés"
+		"fr"		"couché, retourné"
+		"ru"		"лёжа, перевёрнут"
+	}
+	"pose_side"
+	{
+		"en"		"on its side"
+		"it"		"di fianco"
+		"de"		"auf der Seite"
+		"es"		"de lado"
+		"fr"		"sur le côté"
+		"ru"		"на боку"
+	}
+	"pose_side_other"
+	{
+		"en"		"on its other side"
+		"it"		"di fianco, altro lato"
+		"de"		"auf der anderen Seite"
+		"es"		"del otro lado"
+		"fr"		"sur l'autre côté"
+		"ru"		"на другом боку"
+	}
+	"pose_upright"
+	{
+		"en"		"upright"
+		"it"		"in piedi"
+		"de"		"aufrecht"
+		"es"		"de pie"
+		"fr"		"debout"
+		"ru"		"стоя"
+	}
+	"pose_upright_inv"
+	{
+		"en"		"upright, upside down"
+		"it"		"in piedi capovolto"
+		"de"		"aufrecht, kopfüber"
+		"es"		"de pie, boca abajo"
+		"fr"		"debout, à l'envers"
+		"ru"		"стоя, вверх дном"
+	}
+	"pose_rotated"
+	{
+		"en"		"rotated"
+		"it"		"ruotato"
+		"de"		"gedreht"
+		"es"		"girado"
+		"fr"		"tourné"
+		"ru"		"повёрнут"
+	}
+	"axis_pitch"
+	{
+		"en"		"pitch (up/down)"
+		"it"		"pitch (su/giù)"
+		"de"		"Neigung (hoch/runter)"
+		"es"		"Cabeceo (arriba/abajo)"
+		"fr"		"Tangage (haut/bas)"
+		"ru"		"Тангаж (вверх/вниз)"
+	}
+	"axis_yaw"
+	{
+		"en"		"yaw (horizontal)"
+		"it"		"yaw (orizzontale)"
+		"de"		"Gieren (waagerecht)"
+		"es"		"Guiñada (horizontal)"
+		"fr"		"Lacet (horizontal)"
+		"ru"		"Рыскание (по горизонтали)"
+	}
+	"axis_roll"
+	{
+		"en"		"roll (sideways)"
+		"it"		"roll (di lato)"
+		"de"		"Rollen (seitlich)"
+		"es"		"Alabeo (lateral)"
+		"fr"		"Roulis (latéral)"
+		"ru"		"Крен (вбок)"
+	}
+	"admin_item_exit"
+	{
+		"en"		" (exit)"
+		"it"		" (esci)"
+		"de"		" (beenden)"
+		"es"		" (salir)"
+		"fr"		" (quitter)"
+		"ru"		" (выход)"
+	}
+	"main_title_unsaved"
+	{
+		"#format"	"{1:d}"
+		"en"		"ZF Stripper Map Editor\nUnpublished changes: {1}"
+		"it"		"ZF Stripper Map Editor\nModifiche non pubblicate: {1}"
+		"de"		"ZF Stripper Map Editor\nUnveröffentlichte Änderungen: {1}"
+		"es"		"ZF Stripper Map Editor\nCambios sin publicar: {1}"
+		"fr"		"ZF Stripper Map Editor\nModifications non publiées : {1}"
+		"ru"		"ZF Stripper Map Editor\nНеопубликованных изменений: {1}"
+	}
+	"item_select"
+	{
+		"en"		"Select object"
+		"it"		"Seleziona oggetto"
+		"de"		"Objekt auswählen"
+		"es"		"Seleccionar objeto"
+		"fr"		"Sélectionner un objet"
+		"ru"		"Выбрать предмет"
+	}
+	"item_noclip"
+	{
+		"#format"	"{1:s}"
+		"en"		"Noclip: {1}"
+		"it"		"Noclip: {1}"
+		"de"		"Noclip: {1}"
+		"es"		"Noclip: {1}"
+		"fr"		"Noclip : {1}"
+		"ru"		"Noclip: {1}"
+	}
+	"item_speed"
+	{
+		"#format"	"{1:s}"
+		"en"		"Speed: {1}"
+		"it"		"Velocità: {1}"
+		"de"		"Tempo: {1}"
+		"es"		"Velocidad: {1}"
+		"fr"		"Vitesse : {1}"
+		"ru"		"Скорость: {1}"
+	}
+	"item_save"
+	{
+		"#format"	"{1:d}"
+		"en"		"Publish to the server ({1} changes)"
+		"it"		"Pubblica sul server ({1} modifiche)"
+		"de"		"Auf dem Server veröffentlichen ({1} Änderungen)"
+		"es"		"Publicar en el servidor ({1} cambios)"
+		"fr"		"Publier sur le serveur ({1} modifications)"
+		"ru"		"Опубликовать на сервере (изменений: {1})"
+	}
+	"item_save_reload"
+	{
+		"en"		"Publish and reload the map"
+		"it"		"Pubblica e ricarica la mappa"
+		"de"		"Veröffentlichen und Karte neu laden"
+		"es"		"Publicar y recargar el mapa"
+		"fr"		"Publier et recharger la carte"
+		"ru"		"Опубликовать и перезагрузить карту"
+	}
+	"item_reset_all"
+	{
+		"en"		"Restore the whole map to the original"
+		"it"		"Riporta tutta la mappa all'originale"
+		"de"		"Ganze Karte auf das Original zurücksetzen"
+		"es"		"Devolver todo el mapa al original"
+		"fr"		"Remettre toute la carte à l'original"
+		"ru"		"Вернуть всю карту к оригиналу"
+	}
+	"item_settings"
+	{
+		"en"		"Settings"
+		"it"		"Impostazioni"
+		"de"		"Einstellungen"
+		"es"		"Ajustes"
+		"fr"		"Paramètres"
+		"ru"		"Настройки"
+	}
+	"item_exit_editor"
+	{
+		"en"		"Exit the editor"
+		"it"		"Esci dall'editor"
+		"de"		"Editor beenden"
+		"es"		"Salir del editor"
+		"fr"		"Quitter l'éditeur"
+		"ru"		"Выйти из редактора"
+	}
+	"item_back"
+	{
+		"en"		"Back"
+		"it"		"Indietro"
+		"de"		"Zurück"
+		"es"		"Atrás"
+		"fr"		"Retour"
+		"ru"		"Назад"
+	}
+	"item_redo"
+	{
+		"en"		"Redo"
+		"it"		"Ripeti"
+		"de"		"Wiederholen"
+		"es"		"Rehacer"
+		"fr"		"Rétablir"
+		"ru"		"Повторить"
+	}
+	"item_undo"
+	{
+		"en"		"Undo"
+		"it"		"Annulla"
+		"de"		"Rückgängig"
+		"es"		"Deshacer"
+		"fr"		"Annuler"
+		"ru"		"Отменить"
+	}
+	"list_title"
+	{
+		"#format"	"{1:d},{2:d},{3:d}"
+		"en"		"Map objects ({1}) · page {2} of {3}"
+		"it"		"Oggetti della mappa ({1}) · pagina {2} di {3}"
+		"de"		"Objekte der Karte ({1}) · Seite {2} von {3}"
+		"es"		"Objetos del mapa ({1}) · página {2} de {3}"
+		"fr"		"Objets de la carte ({1}) · page {2} sur {3}"
+		"ru"		"Предметы карты ({1}) · страница {2} из {3}"
+	}
+	"list_no_hammer"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} (no hammerid) — {2} m"
+		"it"		"{1} (senza hammerid) — {2} m"
+		"de"		"{1} (ohne Hammer-ID) — {2} m"
+		"es"		"{1} (sin ID de Hammer) — {2} m"
+		"fr"		"{1} (sans ID Hammer) — {2} m"
+		"ru"		"{1} (без Hammer ID) — {2} м"
+	}
+	"item_page_prev"
+	{
+		"en"		"Previous page"
+		"it"		"Pagina prima"
+		"de"		"Vorherige Seite"
+		"es"		"Página anterior"
+		"fr"		"Page précédente"
+		"ru"		"Предыдущая страница"
+	}
+	"item_page_next"
+	{
+		"en"		"Next page"
+		"it"		"Pagina dopo"
+		"de"		"Nächste Seite"
+		"es"		"Página siguiente"
+		"fr"		"Page suivante"
+		"ru"		"Следующая страница"
+	}
+	"item_move"
+	{
+		"en"		"Move"
+		"it"		"Spostamento"
+		"de"		"Verschieben"
+		"es"		"Mover"
+		"fr"		"Déplacer"
+		"ru"		"Переместить"
+	}
+	"item_move_active"
+	{
+		"en"		"Move [active] - release"
+		"it"		"Spostamento [attivo] - rilascia"
+		"de"		"Verschieben [aktiv] - loslassen"
+		"es"		"Mover [activo] - soltar"
+		"fr"		"Déplacer [actif] - lâcher"
+		"ru"		"Переместить [активно] - отпустить"
+	}
+	"item_combo"
+	{
+		"en"		"Move and rotate"
+		"it"		"Sposta e ruota"
+		"de"		"Verschieben und drehen"
+		"es"		"Mover y girar"
+		"fr"		"Déplacer et tourner"
+		"ru"		"Переместить и вращать"
+	}
+	"item_combo_active"
+	{
+		"en"		"Move and rotate [active] - stop"
+		"it"		"Sposta e ruota [attiva] - ferma"
+		"de"		"Verschieben und drehen [aktiv] - stopp"
+		"es"		"Mover y girar [activo] - parar"
+		"fr"		"Déplacer et tourner [actif] - arrêter"
+		"ru"		"Переместить и вращать [активно] - стоп"
+	}
+	"item_pause"
+	{
+		"en"		"Pause: move around (Jump)"
+		"it"		"Pausa: muoviti (Salto)"
+		"de"		"Pause: frei bewegen (Springen)"
+		"es"		"Pausa: moverse libremente (Saltar)"
+		"fr"		"Pause : se déplacer librement (Sauter)"
+		"ru"		"Пауза: свободное движение (Прыжок)"
+	}
+	"item_resume"
+	{
+		"en"		"Resume (Jump)"
+		"it"		"Riprendi (Salto)"
+		"de"		"Fortsetzen (Springen)"
+		"es"		"Continuar (Saltar)"
+		"fr"		"Reprendre (Sauter)"
+		"ru"		"Продолжить (Прыжок)"
+	}
+	"item_drop"
+	{
+		"en"		"Drop (physics)"
+		"it"		"Lascia cadere (fisica)"
+		"de"		"Fallen lassen (Physik)"
+		"es"		"Dejar caer (física)"
+		"fr"		"Laisser tomber (physique)"
+		"ru"		"Уронить (физика)"
+	}
+	"item_align_map"
+	{
+		"en"		"Align to the map"
+		"it"		"Allinea alla mappa"
+		"de"		"An der Karte ausrichten"
+		"es"		"Alinear con el mapa"
+		"fr"		"Aligner sur la carte"
+		"ru"		"Выровнять по карте"
+	}
+	"item_align_wall"
+	{
+		"en"		"Align to the wall (look at the wall)"
+		"it"		"Allinea al muro (guarda il muro)"
+		"de"		"An der Wand ausrichten (auf die Wand schauen)"
+		"es"		"Alinear con la pared (mira la pared)"
+		"fr"		"Aligner sur le mur (regarde le mur)"
+		"ru"		"Выровнять по стене (смотри на стену)"
+	}
+	"item_next_pose"
+	{
+		"#format"	"{1:s}"
+		"en"		"Next pose ({1})"
+		"it"		"Posa successiva ({1})"
+		"de"		"Nächste Lage ({1})"
+		"es"		"Siguiente posición ({1})"
+		"fr"		"Position suivante ({1})"
+		"ru"		"Следующее положение ({1})"
+	}
+	"item_fill"
+	{
+		"#format"	"{1:d}"
+		"en"		"Add another here ({1})"
+		"it"		"Aggiungi un altro qui ({1})"
+		"de"		"Noch eins hierher ({1})"
+		"es"		"Poner otro aquí ({1})"
+		"fr"		"En mettre un autre ici ({1})"
+		"ru"		"Поставить ещё один сюда ({1})"
+	}
+	"item_fill_none"
+	{
+		"en"		"Nothing else to add"
+		"it"		"Niente altro da aggiungere"
+		"de"		"Nichts mehr hinzuzufügen"
+		"es"		"No queda nada que añadir"
+		"fr"		"Plus rien à ajouter"
+		"ru"		"Добавлять больше нечего"
+	}
+	"item_restore"
+	{
+		"en"		"Restore to the original"
+		"it"		"Riporta all'originale"
+		"de"		"Auf das Original zurücksetzen"
+		"es"		"Devolver al original"
+		"fr"		"Remettre à l'original"
+		"ru"		"Вернуть к оригиналу"
+	}
+	"item_fine_active"
+	{
+		"en"		"Fine move [active] - stop"
+		"it"		"Spostamento fine [attivo] - ferma"
+		"de"		"Feinbewegung [aktiv] - stopp"
+		"es"		"Movimiento fino [activo] - parar"
+		"fr"		"Déplacement fin [actif] - arrêter"
+		"ru"		"Точное перемещение [активно] - стоп"
+	}
+	"item_rot_active"
+	{
+		"en"		"Rotation [active] - stop"
+		"it"		"Rotazione [attiva] - ferma"
+		"de"		"Drehung [aktiv] - stopp"
+		"es"		"Rotación [activa] - parar"
+		"fr"		"Rotation [active] - arrêter"
+		"ru"		"Вращение [активно] - стоп"
+	}
+	"item_wrong"
+	{
+		"en"		"Wrong object: put it back and choose another"
+		"it"		"Oggetto sbagliato: rimettilo e scegline un altro"
+		"de"		"Falsches Objekt: zurückstellen und ein anderes wählen"
+		"es"		"Objeto equivocado: devolverlo y elegir otro"
+		"fr"		"Mauvais objet : le remettre et en choisir un autre"
+		"ru"		"Не тот предмет: вернуть и выбрать другой"
+	}
+	"item_goto"
+	{
+		"en"		"Take me to the object"
+		"it"		"Portami vicino all'oggetto"
+		"de"		"Bring mich zum Objekt"
+		"es"		"Llévame al objeto"
+		"fr"		"Emmène-moi à l'objet"
+		"ru"		"Перенеси меня к предмету"
+	}
+	"item_fine"
+	{
+		"en"		"Fine move only"
+		"it"		"Spostamento fine da solo"
+		"de"		"Nur Feinbewegung"
+		"es"		"Solo movimiento fino"
+		"fr"		"Déplacement fin seulement"
+		"ru"		"Только точное перемещение"
+	}
+	"item_rot"
+	{
+		"en"		"Rotation only (mouse)"
+		"it"		"Rotazione da sola (mouse)"
+		"de"		"Nur Drehung (Maus)"
+		"es"		"Solo rotación (ratón)"
+		"fr"		"Rotation seulement (souris)"
+		"ru"		"Только вращение (мышь)"
+	}
+	"item_back_list"
+	{
+		"en"		"Back to the list"
+		"it"		"Torna all'elenco"
+		"de"		"Zurück zur Liste"
+		"es"		"Volver a la lista"
+		"fr"		"Retour à la liste"
+		"ru"		"Назад к списку"
+	}
+	"item_other_list"
+	{
+		"en"		"Another object from the list"
+		"it"		"Altro oggetto dall'elenco"
+		"de"		"Anderes Objekt aus der Liste"
+		"es"		"Otro objeto de la lista"
+		"fr"		"Autre objet de la liste"
+		"ru"		"Другой предмет из списка"
+	}
+	"item_hints"
+	{
+		"#format"	"{1:s}"
+		"en"		"Hints at the bottom: {1}"
+		"it"		"Suggerimenti in basso: {1}"
+		"de"		"Hinweise unten: {1}"
+		"es"		"Consejos abajo: {1}"
+		"fr"		"Conseils en bas : {1}"
+		"ru"		"Подсказки внизу: {1}"
+	}
+	"item_panel"
+	{
+		"#format"	"{1:s}"
+		"en"		"Top panel: {1}"
+		"it"		"Pannello in alto: {1}"
+		"de"		"Oberes Panel: {1}"
+		"es"		"Panel superior: {1}"
+		"fr"		"Panneau du haut : {1}"
+		"ru"		"Верхняя панель: {1}"
+	}
+	"state_hints_on"
+	{
+		"en"		"on"
+		"it"		"accesi"
+		"de"		"an"
+		"es"		"activados"
+		"fr"		"activés"
+		"ru"		"вкл."
+	}
+	"state_hints_off"
+	{
+		"en"		"off"
+		"it"		"spenti"
+		"de"		"aus"
+		"es"		"desactivados"
+		"fr"		"désactivés"
+		"ru"		"выкл."
+	}
+	"confirm_reset_title"
+	{
+		"#format"	"{1:d}"
+		"en"		"Restore {1} moved objects to the original?\nYou can undo it; the file only changes with «Save»."
+		"it"		"Riportare all'originale {1} oggetti spostati?\nSi può annullare, il file cambia solo con «Salva»."
+		"de"		"{1} verschobene Objekte auf das Original zurücksetzen?\nDu kannst es rückgängig machen; die Datei ändert sich nur mit «Veröffentlichen»."
+		"es"		"¿Devolver {1} objetos movidos al original?\nPuedes deshacerlo; el archivo solo cambia con «Publicar»."
+		"fr"		"Remettre {1} objets déplacés à l'original ?\nTu peux annuler ; le fichier ne change qu'avec « Publier »."
+		"ru"		"Вернуть перемещённые предметы ({1}) к оригиналу?\nЭто можно отменить; файл меняется только через «Опубликовать»."
+	}
+	"confirm_no"
+	{
+		"en"		"No, leave it"
+		"it"		"No, lascia così"
+		"de"		"Nein, so lassen"
+		"es"		"No, dejarlo así"
+		"fr"		"Non, laisser ainsi"
+		"ru"		"Нет, оставить так"
+	}
+	"confirm_yes_reset"
+	{
+		"en"		"Yes, restore everything to the original"
+		"it"		"Sì, riporta tutto all'originale"
+		"de"		"Ja, alles auf das Original zurücksetzen"
+		"es"		"Sí, devolver todo al original"
+		"fr"		"Oui, tout remettre à l'original"
+		"ru"		"Да, вернуть всё к оригиналу"
+	}
+	"exit_title"
+	{
+		"en"		"Exit the ZF Stripper Map Editor?"
+		"it"		"Uscire dallo ZF Stripper Map Editor?"
+		"de"		"ZF Stripper Map Editor beenden?"
+		"es"		"¿Salir del ZF Stripper Map Editor?"
+		"fr"		"Quitter le ZF Stripper Map Editor ?"
+		"ru"		"Выйти из ZF Stripper Map Editor?"
+	}
+	"exit_yes"
+	{
+		"en"		"Yes, exit"
+		"it"		"Sì, esci"
+		"de"		"Ja, beenden"
+		"es"		"Sí, salir"
+		"fr"		"Oui, quitter"
+		"ru"		"Да, выйти"
+	}
+	"exit_unsaved_title"
+	{
+		"#format"	"{1:d}"
+		"en"		"You have {1} unpublished changes."
+		"it"		"Hai {1} modifiche non pubblicate."
+		"de"		"Du hast {1} unveröffentlichte Änderungen."
+		"es"		"Tienes {1} cambios sin publicar."
+		"fr"		"Tu as {1} modifications non publiées."
+		"ru"		"Неопубликованных изменений: {1}."
+	}
+	"exit_save"
+	{
+		"en"		"Publish and exit"
+		"it"		"Pubblica ed esci"
+		"de"		"Veröffentlichen und beenden"
+		"es"		"Publicar y salir"
+		"fr"		"Publier et quitter"
+		"ru"		"Опубликовать и выйти"
+	}
+	"exit_nosave"
+	{
+		"en"		"Exit without publishing (they stay pending)"
+		"it"		"Esci senza pubblicare (restano in sospeso)"
+		"de"		"Beenden ohne Veröffentlichen (sie bleiben offen)"
+		"es"		"Salir sin publicar (quedan pendientes)"
+		"fr"		"Quitter sans publier (elles restent en attente)"
+		"ru"		"Выйти без публикации (они останутся)"
+	}
+	"type_medkit"
+	{
+		"en"		"Medkit"
+		"it"		"Medikit"
+		"de"		"Medikit"
+		"es"		"Botiquín"
+		"fr"		"Trousse de soins"
+		"ru"		"Аптечка"
+	}
+	"type_pills"
+	{
+		"en"		"Pills"
+		"it"		"Pillole"
+		"de"		"Pillen"
+		"es"		"Píldoras"
+		"fr"		"Pilules"
+		"ru"		"Таблетки"
+	}
+	"type_adrenaline"
+	{
+		"en"		"Adrenaline"
+		"it"		"Adrenalina"
+		"de"		"Adrenalin"
+		"es"		"Adrenalina"
+		"fr"		"Adrénaline"
+		"ru"		"Адреналин"
+	}
+	"type_defib"
+	{
+		"en"		"Defibrillator"
+		"it"		"Defibrillatore"
+		"de"		"Defibrillator"
+		"es"		"Desfibrilador"
+		"fr"		"Défibrillateur"
+		"ru"		"Дефибриллятор"
+	}
+	"type_molotov"
+	{
+		"en"		"Molotov"
+		"it"		"Molotov"
+		"de"		"Molotowcocktail"
+		"es"		"Cóctel molotov"
+		"fr"		"Cocktail Molotov"
+		"ru"		"Коктейль Молотова"
+	}
+	"type_pipebomb"
+	{
+		"en"		"Pipe bomb"
+		"it"		"Pipe bomb"
+		"de"		"Rohrbombe"
+		"es"		"Bomba casera"
+		"fr"		"Bombe artisanale"
+		"ru"		"Самодельная бомба"
+	}
+	"type_bile"
+	{
+		"en"		"Bile jar"
+		"it"		"Bile"
+		"de"		"Galleglas"
+		"es"		"Tarro de bilis"
+		"fr"		"Bocal de bile"
+		"ru"		"Банка с желчью"
+	}
+	"type_ammo_incendiary"
+	{
+		"en"		"Incendiary ammo"
+		"it"		"Munizioni incendiarie"
+		"de"		"Brandmunition"
+		"es"		"Munición incendiaria"
+		"fr"		"Munitions incendiaires"
+		"ru"		"Зажигательные патроны"
+	}
+	"type_ammo_explosive"
+	{
+		"en"		"Explosive ammo"
+		"it"		"Munizioni esplosive"
+		"de"		"Sprengmunition"
+		"es"		"Munición explosiva"
+		"fr"		"Munitions explosives"
+		"ru"		"Разрывные патроны"
+	}
+	"type_grenade_launcher"
+	{
+		"en"		"Grenade launcher"
+		"it"		"Lanciagranate"
+		"de"		"Granatwerfer"
+		"es"		"Lanzagranadas"
+		"fr"		"Lance-grenades"
+		"ru"		"Гранатомёт"
+	}
+	"type_ammo"
+	{
+		"en"		"Ammo pile"
+		"it"		"Munizioni"
+		"de"		"Munitionsstapel"
+		"es"		"Montón de munición"
+		"fr"		"Tas de munitions"
+		"ru"		"Куча патронов"
+	}
+	"type_gascan"
+	{
+		"en"		"Gas can"
+		"it"		"Tanica"
+		"de"		"Benzinkanister"
+		"es"		"Bidón de gasolina"
+		"fr"		"Bidon d'essence"
+		"ru"		"Канистра с бензином"
+	}
+	"type_propane"
+	{
+		"en"		"Propane tank"
+		"it"		"Bombola"
+		"de"		"Propangasflasche"
+		"es"		"Bombona de propano"
+		"fr"		"Bonbonne de propane"
+		"ru"		"Баллон с пропаном"
+	}
+	"pan_general"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:d},{5:d},{6:d},{7:d},{8:d}"
+		"en"		"Zombie Foundry Stripper Map Editor\nMap: {1}\nMode: {2}\n{3}\nundo: {4} · redo: {5}\nunsaved: {6}\nunpublished: {7}\nmoved: {8}"
+		"it"		"Zombie Foundry Stripper Map Editor\nMappa: {1}\nModo: {2}\n{3}\nannulla: {4} · ripeti: {5}\nnon salvate: {6}\nnon pubblicate: {7}\nspostati: {8}"
+		"de"		"Zombie Foundry Stripper Map Editor\nKarte: {1}\nModus: {2}\n{3}\nrückgängig: {4} · wiederholen: {5}\nungespeichert: {6}\nunveröffentlicht: {7}\nverschoben: {8}"
+		"es"		"Zombie Foundry Stripper Map Editor\nMapa: {1}\nModo: {2}\n{3}\ndeshacer: {4} · rehacer: {5}\nsin guardar: {6}\nsin publicar: {7}\nmovidos: {8}"
+		"fr"		"Zombie Foundry Stripper Map Editor\nCarte : {1}\nMode : {2}\n{3}\nannuler : {4} · rétablir : {5}\nnon enregistrés : {6}\nnon publiés : {7}\ndéplacés : {8}"
+		"ru"		"Zombie Foundry Stripper Map Editor\nКарта: {1}\nРежим: {2}\n{3}\nотмена: {4} · повтор: {5}\nне сохранено: {6}\nне опубликовано: {7}\nперемещено: {8}"
+	}
+	"state_walking"
+	{
+		"en"		"on foot"
+		"it"		"a piedi"
+		"de"		"zu Fuß"
+		"es"		"a pie"
+		"fr"		"à pied"
+		"ru"		"пешком"
+	}
+	"state_noclip"
+	{
+		"en"		"noclip"
+		"it"		"noclip"
+		"de"		"Noclip"
+		"es"		"noclip"
+		"fr"		"noclip"
+		"ru"		"noclip"
+	}
+	"pan_no_object"
+	{
+		"en"		"No object selected"
+		"it"		"Nessun oggetto scelto"
+		"de"		"Kein Objekt ausgewählt"
+		"es"		"Ningún objeto seleccionado"
+		"fr"		"Aucun objet sélectionné"
+		"ru"		"Предмет не выбран"
+	}
+	"pan_from_orig"
+	{
+		"#format"	"{1:s}"
+		"en"		"From original: {1} m"
+		"it"		"Dall'originale: {1} m"
+		"de"		"Vom Original: {1} m"
+		"es"		"Desde el original: {1} m"
+		"fr"		"Depuis l'original : {1} m"
+		"ru"		"От оригинала: {1} м"
+	}
+	"pan_in_place"
+	{
+		"en"		"In its place"
+		"it"		"Al suo posto"
+		"de"		"An seinem Platz"
+		"es"		"En su sitio"
+		"fr"		"À sa place"
+		"ru"		"На своём месте"
+	}
+	"pan_object"
+	{
+		"#format"	"{1:s},{2:d},{3:s},{4:s},{5:s}"
+		"en"		"{1} #{2}\n{3}\nFrom you: {4} m\nPose: {5}"
+		"it"		"{1} #{2}\n{3}\nDa te: {4} m\nPosa: {5}"
+		"de"		"{1} #{2}\n{3}\nVon dir: {4} m\nLage: {5}"
+		"es"		"{1} #{2}\n{3}\nDesde ti: {4} m\nPosición: {5}"
+		"fr"		"{1} #{2}\n{3}\nDepuis toi : {4} m\nPosition : {5}"
+		"ru"		"{1} #{2}\n{3}\nОт тебя: {4} м\nПоложение: {5}"
+	}
+	"pan_ctx_none"
+	{
+		"en"		"Look at an object\nUse: grab"
+		"it"		"Guarda un oggetto\nUsa: afferra"
+		"de"		"Schau ein Objekt an\nBenutzen: greifen"
+		"es"		"Mira un objeto\nUsar: coger"
+		"fr"		"Regarde un objet\nUtiliser : prendre"
+		"ru"		"Посмотри на предмет\nИспользовать: взять"
+	}
+	"pan_ctx_move"
+	{
+		"en"		"Move\nFire: closer\nFire 2: farther\nUse: place\nJump: noclip"
+		"it"		"Spostamento\nFuoco: avvicina\nFuoco 2: allontana\nUsa: posa\nSalto: noclip"
+		"de"		"Verschieben\nFeuer: näher\nFeuer 2: weiter weg\nBenutzen: abstellen\nSpringen: Noclip"
+		"es"		"Mover\nDisparo: acercar\nDisparo 2: alejar\nUsar: colocar\nSaltar: noclip"
+		"fr"		"Déplacer\nTir : rapprocher\nTir 2 : éloigner\nUtiliser : poser\nSauter : noclip"
+		"ru"		"Перемещение\nОгонь: ближе\nОгонь 2: дальше\nИспользовать: поставить\nПрыжок: noclip"
+	}
+	"pan_ctx_combo"
+	{
+		"#format"	"{1:s}"
+		"en"		"Move and rotate · axis {1}\nFire: change axis\nFire 2: 15°\nUse: done"
+		"it"		"Sposta e ruota · asse {1}\nFuoco: cambia asse\nFuoco 2: 15°\nUsa: fatto"
+		"de"		"Verschieben und drehen · Achse {1}\nFeuer: Achse wechseln\nFeuer 2: 15°\nBenutzen: fertig"
+		"es"		"Mover y girar · eje {1}\nDisparo: cambiar eje\nDisparo 2: 15°\nUsar: hecho"
+		"fr"		"Déplacer et tourner · axe {1}\nTir : changer d'axe\nTir 2 : 15°\nUtiliser : terminé"
+		"ru"		"Перемещение и вращение · ось {1}\nОгонь: сменить ось\nОгонь 2: 15°\nИспользовать: готово"
+	}
+	"pan_ctx_fine"
+	{
+		"en"		"Fine move\nJump: pause\nUse: done"
+		"it"		"Spostamento fine\nSalto: pausa\nUsa: fatto"
+		"de"		"Feinbewegung\nSpringen: Pause\nBenutzen: fertig"
+		"es"		"Movimiento fino\nSaltar: pausa\nUsar: hecho"
+		"fr"		"Déplacement fin\nSauter : pause\nUtiliser : terminé"
+		"ru"		"Точное перемещение\nПрыжок: пауза\nИспользовать: готово"
+	}
+	"pan_ctx_rot"
+	{
+		"#format"	"{1:s}"
+		"en"		"Rotation · axis {1}\nFire: change axis\nFire 2: 15°\nUse: done"
+		"it"		"Rotazione · asse {1}\nFuoco: cambia asse\nFuoco 2: 15°\nUsa: fatto"
+		"de"		"Drehung · Achse {1}\nFeuer: Achse wechseln\nFeuer 2: 15°\nBenutzen: fertig"
+		"es"		"Rotación · eje {1}\nDisparo: cambiar eje\nDisparo 2: 15°\nUsar: hecho"
+		"fr"		"Rotation · axe {1}\nTir : changer d'axe\nTir 2 : 15°\nUtiliser : terminé"
+		"ru"		"Вращение · ось {1}\nОгонь: сменить ось\nОгонь 2: 15°\nИспользовать: готово"
+	}
+	"pan_ctx_still"
+	{
+		"en"		"Still\nUse: grab"
+		"it"		"Fermo\nUsa: afferra"
+		"de"		"Ruhig\nBenutzen: greifen"
+		"es"		"Quieto\nUsar: coger"
+		"fr"		"Immobile\nUtiliser : prendre"
+		"ru"		"На месте\nИспользовать: взять"
+	}
+	"pan_ctx_resume"
+	{
+		"en"		"\nJump: resume"
+		"it"		"\nSalto: riprendi"
+		"de"		"\nSpringen: fortsetzen"
+		"es"		"\nSaltar: continuar"
+		"fr"		"\nSauter : reprendre"
+		"ru"		"\nПрыжок: продолжить"
+	}
+	"title_paused"
+	{
+		"en"		" · paused"
+		"it"		" · in pausa"
+		"de"		" · pausiert"
+		"es"		" · en pausa"
+		"fr"		" · en pause"
+		"ru"		" · пауза"
+	}
+	"mode_move"
+	{
+		"en"		"Move"
+		"it"		"Spostamento"
+		"de"		"Verschieben"
+		"es"		"Mover"
+		"fr"		"Déplacer"
+		"ru"		"Перемещение"
+	}
+	"mode_combo"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Move and rotate · axis {1}{2}"
+		"it"		"Sposta e ruota · asse {1}{2}"
+		"de"		"Verschieben und drehen · Achse {1}{2}"
+		"es"		"Mover y girar · eje {1}{2}"
+		"fr"		"Déplacer et tourner · axe {1}{2}"
+		"ru"		"Перемещение и вращение · ось {1}{2}"
+	}
+	"mode_fine"
+	{
+		"#format"	"{1:s}"
+		"en"		"Fine move{1}"
+		"it"		"Spostamento fine{1}"
+		"de"		"Feinbewegung{1}"
+		"es"		"Movimiento fino{1}"
+		"fr"		"Déplacement fin{1}"
+		"ru"		"Точное перемещение{1}"
+	}
+	"mode_rot"
+	{
+		"#format"	"{1:s}"
+		"en"		"Rotation · axis {1}"
+		"it"		"Rotazione · asse {1}"
+		"de"		"Drehung · Achse {1}"
+		"es"		"Rotación · eje {1}"
+		"fr"		"Rotation · axe {1}"
+		"ru"		"Вращение · ось {1}"
+	}
+	"mode_still"
+	{
+		"en"		"Still"
+		"it"		"Fermo"
+		"de"		"Ruhig"
+		"es"		"Quieto"
+		"fr"		"Immobile"
+		"ru"		"На месте"
+	}
+	"wall_axes"
+	{
+		"en"		" · wall axes"
+		"it"		" · assi del muro"
+		"de"		" · Wandachsen"
+		"es"		" · ejes de la pared"
+		"fr"		" · axes du mur"
+		"ru"		" · оси стены"
+	}
+	"keys_move"
+	{
+		"en"		"Fire closer · Fire 2 farther · Use place"
+		"it"		"Fuoco avvicina · Fuoco 2 allontana · Usa posa"
+		"de"		"Feuer näher · Feuer 2 weiter weg · Benutzen abstellen"
+		"es"		"Disparo acercar · Disparo 2 alejar · Usar colocar"
+		"fr"		"Tir rapprocher · Tir 2 éloigner · Utiliser poser"
+		"ru"		"Огонь ближе · Огонь 2 дальше · Использовать поставить"
+	}
+	"keys_combo"
+	{
+		"en"		"Movement moves · mouse rotates · Fire axis · Fire 2 15° · Use done"
+		"it"		"Movimento sposta · mouse ruota · Fuoco asse · Fuoco 2 15° · Usa fatto"
+		"de"		"Bewegung verschiebt · Maus dreht · Feuer Achse · Feuer 2 15° · Benutzen fertig"
+		"es"		"Movimiento desplaza · Ratón gira · Disparo eje · Disparo 2 15° · Usar hecho"
+		"fr"		"Déplacement bouge · Souris tourne · Tir axe · Tir 2 15° · Utiliser terminé"
+		"ru"		"Движение двигает · Мышь вращает · Огонь ось · Огонь 2 15° · Использовать готово"
+	}
+	"keys_fine"
+	{
+		"en"		"Movement moves · Jump pause · Use done"
+		"it"		"Movimento sposta · Salto pausa · Usa fatto"
+		"de"		"Bewegung verschiebt · Springen Pause · Benutzen fertig"
+		"es"		"Movimiento desplaza · Saltar pausa · Usar hecho"
+		"fr"		"Déplacement bouge · Sauter pause · Utiliser terminé"
+		"ru"		"Движение двигает · Прыжок пауза · Использовать готово"
+	}
+	"keys_rot"
+	{
+		"en"		"Mouse rotates · Fire axis · Fire 2 15° · Use done"
+		"it"		"Mouse ruota · Fuoco asse · Fuoco 2 15° · Usa fatto"
+		"de"		"Maus dreht · Feuer Achse · Feuer 2 15° · Benutzen fertig"
+		"es"		"Ratón gira · Disparo eje · Disparo 2 15° · Usar hecho"
+		"fr"		"Souris tourne · Tir axe · Tir 2 15° · Utiliser terminé"
+		"ru"		"Мышь вращает · Огонь ось · Огонь 2 15° · Использовать готово"
+	}
+	"keys_still"
+	{
+		"en"		"Use grab"
+		"it"		"Usa afferra"
+		"de"		"Benutzen greifen"
+		"es"		"Usar coger"
+		"fr"		"Utiliser prendre"
+		"ru"		"Использовать взять"
+	}
+	"title_paused_line"
+	{
+		"en"		"\nPaused: Jump to resume"
+		"it"		"\nIn pausa: Salto per riprendere"
+		"de"		"\nPausiert: Springen zum Fortsetzen"
+		"es"		"\nEn pausa: Saltar para continuar"
+		"fr"		"\nEn pause : Sauter pour reprendre"
+		"ru"		"\nПауза: Прыжок — продолжить"
+	}
+	"title_unsaved"
+	{
+		"#format"	"{1:d}"
+		"en"		" · unsaved: {1}"
+		"it"		" · non salvate: {1}"
+		"de"		" · ungespeichert: {1}"
+		"es"		" · sin guardar: {1}"
+		"fr"		" · non enregistrés : {1}"
+		"ru"		" · не сохранено: {1}"
+	}
+	"title_obj_in_place"
+	{
+		"#format"	"{1:s},{2:d},{3:s}"
+		"en"		"{1} #{2} · in its place · {3}"
+		"it"		"{1} #{2} · al suo posto · {3}"
+		"de"		"{1} #{2} · an seinem Platz · {3}"
+		"es"		"{1} #{2} · en su sitio · {3}"
+		"fr"		"{1} #{2} · à sa place · {3}"
+		"ru"		"{1} #{2} · на своём месте · {3}"
+	}
+	"title_state"
+	{
+		"#format"	"{1:s},{2:d},{3:s}"
+		"en"		"{1} · moved: {2}{3}"
+		"it"		"{1} · spostati: {2}{3}"
+		"de"		"{1} · verschoben: {2}{3}"
+		"es"		"{1} · movidos: {2}{3}"
+		"fr"		"{1} · déplacés : {2}{3}"
+		"ru"		"{1} · перемещено: {2}{3}"
+	}
+	"item_language"
+	{
+		"#format"	"{1:s}"
+		"en"		"Language: {1}"
+		"it"		"Lingua: {1}"
+		"de"		"Sprache: {1}"
+		"es"		"Idioma: {1}"
+		"fr"		"Langue : {1}"
+		"ru"		"Язык: {1}"
+	}
+	"lang_auto"
+	{
+		"en"		"automatic (game)"
+		"it"		"automatica (gioco)"
+		"de"		"automatisch (Spiel)"
+		"es"		"automático (juego)"
+		"fr"		"automatique (jeu)"
+		"ru"		"автоматически (игра)"
+	}
+	"type_oxygen"
+	{
+		"en"		"Oxygen tank"
+		"it"		"Bombola d'ossigeno"
+		"de"		"Sauerstoffflasche"
+		"es"		"Bombona de oxígeno"
+		"fr"		"Bouteille d'oxygène"
+		"ru"		"Кислородный баллон"
+	}
+	"type_fireworks"
+	{
+		"en"		"Fireworks crate"
+		"it"		"Fuochi d'artificio"
+		"de"		"Feuerwerkskiste"
+		"es"		"Caja de fuegos artificiales"
+		"fr"		"Caisse de feux d'artifice"
+		"ru"		"Ящик с фейерверками"
+	}
+	"item_map_mode"
+	{
+		"#format"	"{1:s}"
+		"en"		"Map mode: {1}"
+		"it"		"Modalità mappa: {1}"
+		"de"		"Kartenmodus: {1}"
+		"es"		"Modo del mapa: {1}"
+		"fr"		"Mode de la carte : {1}"
+		"ru"		"Режим карты: {1}"
+	}
+	"map_mode_faithful"
+	{
+		"en"		"faithful"
+		"it"		"fedele"
+		"de"		"originalgetreu"
+		"es"		"fiel"
+		"fr"		"fidèle"
+		"ru"		"точный"
+	}
+	"map_mode_free"
+	{
+		"en"		"free"
+		"it"		"libera"
+		"de"		"frei"
+		"es"		"libre"
+		"fr"		"libre"
+		"ru"		"свободный"
+	}
+	"settings_title_page"
+	{
+		"#format"	"{1:d}"
+		"en"		"Settings ({1}/2)"
+		"it"		"Impostazioni ({1}/2)"
+		"de"		"Einstellungen ({1}/2)"
+		"es"		"Ajustes ({1}/2)"
+		"fr"		"Paramètres ({1}/2)"
+		"ru"		"Настройки ({1}/2)"
+	}
+	"cleanup_done"
+	{
+		"#format"	"{1:d}"
+		"en"		"Removed {1} objects that are not part of the map."
+		"it"		"Tolti {1} oggetti che non fanno parte della mappa."
+		"de"		"{1} Objekte entfernt, die nicht zur Karte gehören."
+		"es"		"Eliminados {1} objetos que no pertenecen al mapa."
+		"fr"		"{1} objets n'appartenant pas à la carte ont été supprimés."
+		"ru"		"Удалено предметов, не принадлежащих карте: {1}."
+	}
+	"map_mode_changed"
+	{
+		"#format"	"{1:s}"
+		"en"		"Map mode: {1} (for the whole server)."
+		"it"		"Modalità della mappa: {1} (per tutto il server)."
+		"de"		"Kartenmodus: {1} (für den ganzen Server)."
+		"es"		"Modo del mapa: {1} (para todo el servidor)."
+		"fr"		"Mode de la carte : {1} (pour tout le serveur)."
+		"ru"		"Режим карты: {1} (для всего сервера)."
+	}
+	"reset_reload"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} objects had been destroyed: the map reloads to bring them back."
+		"it"		"{1} oggetti erano stati distrutti: la mappa si ricarica per riaverli."
+		"de"		"{1} Objekte wurden zerstört: Die Karte wird neu geladen, um sie zurückzubringen."
+		"es"		"Se han destruido {1} objetos: el mapa se recarga para recuperarlos."
+		"fr"		"{1} objets ont été détruits : la carte se recharge pour les récupérer."
+		"ru"		"Уничтожено предметов: {1}. Карта перезагружается, чтобы вернуть их."
+	}
+	"item_explosions"
+	{
+		"#format"	"{1:s}"
+		"en"		"Explosions (test): {1}"
+		"it"		"Esplosioni (prova): {1}"
+		"de"		"Explosionen (Test): {1}"
+		"es"		"Explosiones (prueba): {1}"
+		"fr"		"Explosions (test) : {1}"
+		"ru"		"Взрывы (тест): {1}"
+	}
+	"item_explode_now"
+	{
+		"en"		"Blow up the selected object"
+		"it"		"Fai esplodere l'oggetto scelto"
+		"de"		"Ausgewähltes Objekt sprengen"
+		"es"		"Hacer explotar el objeto seleccionado"
+		"fr"		"Faire exploser l'objet sélectionné"
+		"ru"		"Взорвать выбранный предмет"
+	}
+	"explosions_on"
+	{
+		"en"		"Explosions on: gas cans and tanks can blow up. Restore the map to bring them back."
+		"it"		"Esplosioni accese: taniche e bombole possono esplodere. Il reset della mappa le riporta."
+		"de"		"Explosionen an: Kanister und Flaschen können explodieren. Setze die Karte zurück, um sie wiederzubekommen."
+		"es"		"Explosiones activadas: bidones y bombonas pueden explotar. Restablece el mapa para recuperarlos."
+		"fr"		"Explosions activées : bidons et bonbonnes peuvent exploser. Réinitialise la carte pour les récupérer."
+		"ru"		"Взрывы включены: канистры и баллоны могут взорваться. Сбрось карту, чтобы вернуть их."
+	}
+	"reset_nothing"
+	{
+		"en"		"Every object is already in its original place."
+		"it"		"Tutti gli oggetti sono già al loro posto originale."
+		"de"		"Alle Objekte sind schon an ihrem Originalplatz."
+		"es"		"Todos los objetos ya están en su sitio original."
+		"fr"		"Tous les objets sont déjà à leur place d'origine."
+		"ru"		"Все предметы уже на своих исходных местах."
+	}
+	"main_title"
+	{
+		"en"		"ZF Stripper Map Editor · Main menu"
+		"it"		"ZF Stripper Map Editor · Menu principale"
+		"de"		"ZF Stripper Map Editor · Hauptmenü"
+		"es"		"ZF Stripper Map Editor · Menú principal"
+		"fr"		"ZF Stripper Map Editor · Menu principal"
+		"ru"		"ZF Stripper Map Editor · Главное меню"
+	}
+	"label_locked"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"{1} #{2}\nnot movable in faithful mode"
+		"it"		"{1} #{2}\nnon spostabile in modalità fedele"
+		"de"		"{1} #{2}\nim originalgetreuen Modus nicht verschiebbar"
+		"es"		"{1} #{2}\nno movible en modo fiel"
+		"fr"		"{1} #{2}\nnon déplaçable en mode fidèle"
+		"ru"		"{1} #{2}\nнельзя перемещать в точном режиме"
+	}
+	"hint_locked"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1}: not movable in faithful mode. Switch to free mode in Settings to move it."
+		"it"		"{1}: non spostabile in modalità fedele. Passa alla modalità libera nelle Impostazioni per spostarlo."
+		"de"		"{1}: im originalgetreuen Modus nicht verschiebbar. Wechsle in den Einstellungen zum freien Modus, um es zu verschieben."
+		"es"		"{1}: no movible en modo fiel. Cambia a modo libre en Ajustes para moverlo."
+		"fr"		"{1} : non déplaçable en mode fidèle. Passe en mode libre dans les Paramètres pour le déplacer."
+		"ru"		"{1}: нельзя перемещать в точном режиме. Включи свободный режим в Настройках, чтобы переместить."
+	}
+	"hint_locked_short"
+	{
+		"en"		"Not movable in faithful mode"
+		"it"		"Non spostabile in modalità fedele"
+		"de"		"Im originalgetreuen Modus nicht verschiebbar"
+		"es"		"No movible en modo fiel"
+		"fr"		"Non déplaçable en mode fidèle"
+		"ru"		"Нельзя перемещать в точном режиме"
+	}
+	"hint_idle"
+	{
+		"en"		"No object under the crosshair"
+		"it"		"Nessun oggetto sotto il mirino"
+		"de"		"Kein Objekt im Fadenkreuz"
+		"es"		"Ningún objeto en la mira"
+		"fr"		"Aucun objet dans le viseur"
+		"ru"		"Нет предмета в прицеле"
+	}
+	"item_save_menu"
+	{
+		"en"		"Save and load"
+		"it"		"Salva e carica"
+		"de"		"Speichern und laden"
+		"es"		"Guardar y cargar"
+		"fr"		"Sauvegarder et charger"
+		"ru"		"Сохранить и загрузить"
+	}
+	"save_title"
+	{
+		"en"		"Save and load"
+		"it"		"Salva e carica"
+		"de"		"Speichern und laden"
+		"es"		"Guardar y cargar"
+		"fr"		"Sauvegarder et charger"
+		"ru"		"Сохранить и загрузить"
+	}
+	"item_save_mine"
+	{
+		"en"		"Save my work"
+		"it"		"Salva il mio lavoro"
+		"de"		"Meine Arbeit speichern"
+		"es"		"Guardar mi trabajo"
+		"fr"		"Sauvegarder mon travail"
+		"ru"		"Сохранить мою работу"
+	}
+	"item_autosave"
+	{
+		"#format"	"{1:s}"
+		"en"		"Autosave: {1}"
+		"it"		"Autosave: {1}"
+		"de"		"Autospeichern: {1}"
+		"es"		"Autoguardado: {1}"
+		"fr"		"Sauvegarde auto : {1}"
+		"ru"		"Автосохранение: {1}"
+	}
+	"autosave_off"
+	{
+		"en"		"off"
+		"it"		"spento"
+		"de"		"aus"
+		"es"		"desactivado"
+		"fr"		"désactivée"
+		"ru"		"выкл."
+	}
+	"autosave_every"
+	{
+		"#format"	"{1:d}"
+		"en"		"every {1} min"
+		"it"		"ogni {1} min"
+		"de"		"alle {1} Min."
+		"es"		"cada {1} min"
+		"fr"		"toutes les {1} min"
+		"ru"		"каждые {1} мин"
+	}
+	"saved_mine"
+	{
+		"#format"	"{1:s}"
+		"en"		"Your work is saved: {1}"
+		"it"		"Il tuo lavoro è salvato: {1}"
+		"de"		"Deine Arbeit ist gespeichert: {1}"
+		"es"		"Tu trabajo está guardado: {1}"
+		"fr"		"Ton travail est sauvegardé : {1}"
+		"ru"		"Твоя работа сохранена: {1}"
+	}
+	"autosaved"
+	{
+		"en"		"Autosaved."
+		"it"		"Salvato automaticamente."
+		"de"		"Automatisch gespeichert."
+		"es"		"Guardado automáticamente."
+		"fr"		"Sauvegardé automatiquement."
+		"ru"		"Сохранено автоматически."
+	}
+	"nothing_to_save"
+	{
+		"en"		"Nothing to save or publish: everything is already up to date."
+		"it"		"Niente da salvare o pubblicare: è già tutto aggiornato."
+		"de"		"Nichts zu speichern oder zu veröffentlichen: Alles ist schon aktuell."
+		"es"		"Nada que guardar ni publicar: todo está al día."
+		"fr"		"Rien à sauvegarder ni à publier : tout est à jour."
+		"ru"		"Нечего сохранять и публиковать: всё актуально."
+	}
+	"item_save_orig"
+	{
+		"#format"	"{1:d}"
+		"en"		"Publish the original map ({1} changes)"
+		"it"		"Pubblica la mappa originale ({1} modifiche)"
+		"de"		"Originalkarte veröffentlichen ({1} Änderungen)"
+		"es"		"Publicar el mapa original ({1} cambios)"
+		"fr"		"Publier la carte d'origine ({1} modifications)"
+		"ru"		"Опубликовать исходную карту (изменений: {1})"
+	}
+	"item_reload_only"
+	{
+		"en"		"Reload the map (nothing to publish)"
+		"it"		"Ricarica la mappa (niente da pubblicare)"
+		"de"		"Karte neu laden (nichts zu veröffentlichen)"
+		"es"		"Recargar el mapa (nada que publicar)"
+		"fr"		"Recharger la carte (rien à publier)"
+		"ru"		"Перезагрузить карту (нечего публиковать)"
+	}
+	"file_published_by"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Published by: {1} ({2})"
+		"it"		"Pubblicato da: {1} ({2})"
+		"de"		"Veröffentlicht von: {1} ({2})"
+		"es"		"Publicado por: {1} ({2})"
+		"fr"		"Publié par : {1} ({2})"
+		"ru"		"Опубликовал: {1} ({2})"
+	}
+	"file_date"
+	{
+		"#format"	"{1:s}"
+		"en"		"Date: {1}"
+		"it"		"Data: {1}"
+		"de"		"Datum: {1}"
+		"es"		"Fecha: {1}"
+		"fr"		"Date : {1}"
+		"ru"		"Дата: {1}"
+	}
+	"file_map_info"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:d}"
+		"en"		"Map: {1} · Plugin: {2} · Mode: {3} · Moved objects: {4}"
+		"it"		"Mappa: {1} · Plugin: {2} · Modalità: {3} · Oggetti spostati: {4}"
+		"de"		"Karte: {1} · Plugin: {2} · Modus: {3} · Verschobene Objekte: {4}"
+		"es"		"Mapa: {1} · Plugin: {2} · Modo: {3} · Objetos movidos: {4}"
+		"fr"		"Carte : {1} · Plugin : {2} · Mode : {3} · Objets déplacés : {4}"
+		"ru"		"Карта: {1} · Плагин: {2} · Режим: {3} · Перемещено предметов: {4}"
+	}
+	"file_work"
+	{
+		"#format"	"{1:s}"
+		"en"		"Work: {1}"
+		"it"		"Lavoro: {1}"
+		"de"		"Arbeit: {1}"
+		"es"		"Trabajo: {1}"
+		"fr"		"Travail : {1}"
+		"ru"		"Работа: {1}"
+	}
+	"item_load"
+	{
+		"en"		"Load a save"
+		"it"		"Carica un salvataggio"
+		"de"		"Spielstand laden"
+		"es"		"Cargar una partida guardada"
+		"fr"		"Charger une sauvegarde"
+		"ru"		"Загрузить сохранение"
+	}
+	"load_title"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Load a save ({1}/{2})"
+		"it"		"Carica un salvataggio ({1}/{2})"
+		"de"		"Spielstand laden ({1}/{2})"
+		"es"		"Cargar partida ({1}/{2})"
+		"fr"		"Charger une sauvegarde ({1}/{2})"
+		"ru"		"Загрузить сохранение ({1}/{2})"
+	}
+	"load_item"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s}"
+		"en"		"{1} {2} · {3}{4}"
+		"it"		"{1} {2} · {3}{4}"
+		"de"		"{1} {2} · {3}{4}"
+		"es"		"{1} {2} · {3}{4}"
+		"fr"		"{1} {2} · {3}{4}"
+		"ru"		"{1} {2} · {3}{4}"
+	}
+	"load_type_auto"
+	{
+		"en"		"autosave"
+		"it"		"autosave"
+		"de"		"Autospeicherung"
+		"es"		"autoguardado"
+		"fr"		"sauvegarde auto"
+		"ru"		"автосохранение"
+	}
+	"load_type_saved"
+	{
+		"en"		"saved"
+		"it"		"salvato"
+		"de"		"gespeichert"
+		"es"		"guardado"
+		"fr"		"sauvegardé"
+		"ru"		"сохранено"
+	}
+	"load_filter"
+	{
+		"#format"	"{1:s}"
+		"en"		"Show: {1}"
+		"it"		"Mostra: {1}"
+		"de"		"Zeigen: {1}"
+		"es"		"Mostrar: {1}"
+		"fr"		"Afficher : {1}"
+		"ru"		"Показать: {1}"
+	}
+	"load_filter_all"
+	{
+		"en"		"everyone"
+		"it"		"tutti"
+		"de"		"alle"
+		"es"		"todos"
+		"fr"		"toutes"
+		"ru"		"все"
+	}
+	"load_filter_mine"
+	{
+		"en"		"only mine"
+		"it"		"solo i miei"
+		"de"		"nur meine"
+		"es"		"solo los míos"
+		"fr"		"seulement les miennes"
+		"ru"		"только мои"
+	}
+	"load_none"
+	{
+		"en"		"No saves found."
+		"it"		"Nessun salvataggio trovato."
+		"de"		"Keine Spielstände gefunden."
+		"es"		"No se han encontrado partidas guardadas."
+		"fr"		"Aucune sauvegarde trouvée."
+		"ru"		"Сохранения не найдены."
+	}
+	"load_confirm_title"
+	{
+		"en"		"Load this save?\nYour current work is saved first."
+		"it"		"Caricare questo salvataggio?\nPrima si salva il lavoro di adesso."
+		"de"		"Diesen Spielstand laden?\nDeine aktuelle Arbeit wird vorher gespeichert."
+		"es"		"¿Cargar esta partida?\nAntes se guarda tu trabajo actual."
+		"fr"		"Charger cette sauvegarde ?\nTon travail actuel est sauvegardé avant."
+		"ru"		"Загрузить это сохранение?\nСначала будет сохранена твоя текущая работа."
+	}
+	"load_yes"
+	{
+		"en"		"Yes, load it"
+		"it"		"Sì, caricalo"
+		"de"		"Ja, laden"
+		"es"		"Sí, cargar"
+		"fr"		"Oui, charger"
+		"ru"		"Да, загрузить"
+	}
+	"load_no"
+	{
+		"en"		"No"
+		"it"		"No"
+		"de"		"Nein"
+		"es"		"No"
+		"fr"		"Non"
+		"ru"		"Нет"
+	}
+	"load_done"
+	{
+		"#format"	"{1:s}"
+		"en"		"Loaded: {1}."
+		"it"		"Caricato: {1}."
+		"de"		"Geladen: {1}."
+		"es"		"Cargado: {1}."
+		"fr"		"Chargé : {1}."
+		"ru"		"Загружено: {1}."
+	}
+	"load_failed"
+	{
+		"en"		"Cannot read that save."
+		"it"		"Non riesco a leggere quel salvataggio."
+		"de"		"Dieser Spielstand kann nicht gelesen werden."
+		"es"		"No se puede leer esta partida guardada."
+		"fr"		"Impossible de lire cette sauvegarde."
+		"ru"		"Не удаётся прочитать это сохранение."
+	}
+	"item_load_auto"
+	{
+		"en"		"Load an autosave"
+		"it"		"Carica un autosave"
+		"de"		"Autospeicherung laden"
+		"es"		"Cargar un autoguardado"
+		"fr"		"Charger une sauvegarde auto"
+		"ru"		"Загрузить автосохранение"
+	}
+	"load_title_auto"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Load an autosave ({1}/{2})"
+		"it"		"Carica un autosave ({1}/{2})"
+		"de"		"Autospeicherung laden ({1}/{2})"
+		"es"		"Cargar autoguardado ({1}/{2})"
+		"fr"		"Charger une sauvegarde auto ({1}/{2})"
+		"ru"		"Загрузить автосохранение ({1}/{2})"
+	}
+	"load_objs"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} obj."
+		"it"		"{1} ogg."
+		"de"		"{1} Obj."
+		"es"		"{1} obj."
+		"fr"		"{1} obj."
+		"ru"		"{1} пр."
+	}
+	"load_author"
+	{
+		"#format"	"{1:s}"
+		"en"		"Author: {1}"
+		"it"		"Autore: {1}"
+		"de"		"Autor: {1}"
+		"es"		"Autor: {1}"
+		"fr"		"Auteur : {1}"
+		"ru"		"Автор: {1}"
+	}
+	"load_date"
+	{
+		"#format"	"{1:s}"
+		"en"		"Date: {1}"
+		"it"		"Data: {1}"
+		"de"		"Datum: {1}"
+		"es"		"Fecha: {1}"
+		"fr"		"Date : {1}"
+		"ru"		"Дата: {1}"
+	}
+	"date_all"
+	{
+		"en"		"all"
+		"it"		"tutte"
+		"de"		"alle"
+		"es"		"todas"
+		"fr"		"toutes"
+		"ru"		"все"
+	}
+	"date_hour"
+	{
+		"en"		"last hour"
+		"it"		"ultima ora"
+		"de"		"letzte Stunde"
+		"es"		"última hora"
+		"fr"		"dernière heure"
+		"ru"		"последний час"
+	}
+	"date_today"
+	{
+		"en"		"today"
+		"it"		"oggi"
+		"de"		"heute"
+		"es"		"hoy"
+		"fr"		"aujourd'hui"
+		"ru"		"сегодня"
+	}
+	"date_3days"
+	{
+		"en"		"last 3 days"
+		"it"		"ultimi 3 giorni"
+		"de"		"letzte 3 Tage"
+		"es"		"últimos 3 días"
+		"fr"		"3 derniers jours"
+		"ru"		"последние 3 дня"
+	}
+	"date_week"
+	{
+		"en"		"last week"
+		"it"		"ultima settimana"
+		"de"		"letzte Woche"
+		"es"		"última semana"
+		"fr"		"dernière semaine"
+		"ru"		"последняя неделя"
+	}
+	"date_month"
+	{
+		"en"		"last month"
+		"it"		"ultimo mese"
+		"de"		"letzter Monat"
+		"es"		"último mes"
+		"fr"		"dernier mois"
+		"ru"		"последний месяц"
+	}
+	"save_name_prompt"
+	{
+		"en"		"Type a name for this save in chat, or - for no name."
+		"it"		"Scrivi in chat un nome per questo salvataggio, oppure - per nessun nome."
+		"de"		"Schreib einen Namen für diesen Spielstand in den Chat, oder - für keinen Namen."
+		"es"		"Escribe en el chat un nombre para esta partida, o - para ninguno."
+		"fr"		"Écris dans le chat un nom pour cette sauvegarde, ou - pour aucun nom."
+		"ru"		"Напиши в чат название этого сохранения или - без названия."
+	}
+	"save_name_hint"
+	{
+		"en"		"Waiting for the name of the save.\nOpen the chat (Y), type the name and press Enter.\nType - for no name."
+		"it"		"In attesa del nome del salvataggio.\nApri la chat (Y), scrivi il nome e premi Invio.\nScrivi - per nessun nome."
+		"de"		"Warte auf den Namen des Spielstands.\nÖffne den Chat, schreib den Namen und drück Enter.\nSchreib - für keinen Namen."
+		"es"		"Esperando el nombre de la partida.\nAbre el chat, escribe el nombre y pulsa Intro.\nEscribe - para ninguno."
+		"fr"		"En attente du nom de la sauvegarde.\nOuvre le chat, écris le nom et appuie sur Entrée.\nÉcris - pour aucun nom."
+		"ru"		"Жду название сохранения.\nОткрой чат, напиши название и нажми Enter.\nНапиши - без названия."
+	}
+	"item_players"
+	{
+		"en"		"Players"
+		"it"		"Giocatori"
+		"de"		"Spieler"
+		"es"		"Jugadores"
+		"fr"		"Joueurs"
+		"ru"		"Игроки"
+	}
+	"players_title"
+	{
+		"en"		"Players"
+		"it"		"Giocatori"
+		"de"		"Spieler"
+		"es"		"Jugadores"
+		"fr"		"Joueurs"
+		"ru"		"Игроки"
+	}
+	"players_none"
+	{
+		"en"		"There are no other players."
+		"it"		"Non ci sono altri giocatori."
+		"de"		"Es gibt keine anderen Spieler."
+		"es"		"No hay otros jugadores."
+		"fr"		"Il n'y a pas d'autres joueurs."
+		"ru"		"Других игроков нет."
+	}
+	"player_access_tag"
+	{
+		"en"		" (access)"
+		"it"		" (accesso)"
+		"de"		" (Zugang)"
+		"es"		" (acceso)"
+		"fr"		" (accès)"
+		"ru"		" (доступ)"
+	}
+	"player_title"
+	{
+		"#format"	"{1:s}"
+		"en"		"Player: {1}"
+		"it"		"Giocatore: {1}"
+		"de"		"Spieler: {1}"
+		"es"		"Jugador: {1}"
+		"fr"		"Joueur : {1}"
+		"ru"		"Игрок: {1}"
+	}
+	"act_temp_give"
+	{
+		"en"		"Give temporary access"
+		"it"		"Dai accesso temporaneo"
+		"de"		"Vorübergehenden Zugang geben"
+		"es"		"Dar acceso temporal"
+		"fr"		"Donner un accès temporaire"
+		"ru"		"Дать временный доступ"
+	}
+	"act_temp_take"
+	{
+		"en"		"Remove temporary access"
+		"it"		"Togli accesso temporaneo"
+		"de"		"Vorübergehenden Zugang entziehen"
+		"es"		"Quitar acceso temporal"
+		"fr"		"Retirer l'accès temporaire"
+		"ru"		"Забрать временный доступ"
+	}
+	"act_perm"
+	{
+		"en"		"Request permanent access"
+		"it"		"Chiedi accesso definitivo"
+		"de"		"Dauerhaften Zugang anfordern"
+		"es"		"Solicitar acceso permanente"
+		"fr"		"Demander un accès permanent"
+		"ru"		"Запросить постоянный доступ"
+	}
+	"act_remove"
+	{
+		"en"		"Remove access"
+		"it"		"Togli accesso"
+		"de"		"Zugang entziehen"
+		"es"		"Quitar acceso"
+		"fr"		"Retirer l'accès"
+		"ru"		"Забрать доступ"
+	}
+	"act_kick"
+	{
+		"en"		"Kick from the editor"
+		"it"		"Caccia dall'editor"
+		"de"		"Aus dem Editor werfen"
+		"es"		"Echar del editor"
+		"fr"		"Expulser de l'éditeur"
+		"ru"		"Выгнать из редактора"
+	}
+	"only_owner"
+	{
+		"en"		"Only the owner can do this."
+		"it"		"Solo il proprietario può farlo."
+		"de"		"Das kann nur der Besitzer."
+		"es"		"Solo el propietario puede hacerlo."
+		"fr"		"Seul le propriétaire peut le faire."
+		"ru"		"Это может только владелец."
+	}
+	"access_granted"
+	{
+		"#format"	"{1:s}"
+		"en"		"You can now use the Stripper Map Editor (until you leave the server). To enter, type in chat: {1}"
+		"it"		"Ora puoi usare lo Stripper Map Editor (finché non esci dal server). Per entrare scrivi in chat: {1}"
+		"de"		"Du kannst jetzt den Stripper Map Editor benutzen (bis du den Server verlässt). Zum Betreten schreib in den Chat: {1}"
+		"es"		"Ahora puedes usar el Stripper Map Editor (hasta que salgas del servidor). Para entrar escribe en el chat: {1}"
+		"fr"		"Tu peux maintenant utiliser le Stripper Map Editor (jusqu'à ce que tu quittes le serveur). Pour entrer, écris dans le chat : {1}"
+		"ru"		"Теперь ты можешь пользоваться Stripper Map Editor (пока не выйдешь с сервера). Чтобы войти, напиши в чат: {1}"
+	}
+	"access_removed"
+	{
+		"en"		"Your access to the Stripper Map Editor was removed."
+		"it"		"Il tuo accesso allo Stripper Map Editor è stato tolto."
+		"de"		"Dein Zugang zum Stripper Map Editor wurde entzogen."
+		"es"		"Se ha retirado tu acceso al Stripper Map Editor."
+		"fr"		"Ton accès au Stripper Map Editor a été retiré."
+		"ru"		"Твой доступ к Stripper Map Editor отозван."
+	}
+	"kicked_editor"
+	{
+		"en"		"The owner removed you from the editor."
+		"it"		"Il proprietario ti ha fatto uscire dall'editor."
+		"de"		"Der Besitzer hat dich aus dem Editor genommen."
+		"es"		"El propietario te ha sacado del editor."
+		"fr"		"Le propriétaire t'a sorti de l'éditeur."
+		"ru"		"Владелец вывел тебя из редактора."
+	}
+	"granted_to"
+	{
+		"#format"	"{1:s}"
+		"en"		"Temporary access given to {1}."
+		"it"		"Accesso temporaneo dato a {1}."
+		"de"		"Vorübergehender Zugang für {1} gegeben."
+		"es"		"Acceso temporal dado a {1}."
+		"fr"		"Accès temporaire donné à {1}."
+		"ru"		"Временный доступ выдан: {1}."
+	}
+	"removed_from"
+	{
+		"#format"	"{1:s}"
+		"en"		"Access removed from {1}."
+		"it"		"Accesso tolto a {1}."
+		"de"		"Zugang von {1} entzogen."
+		"es"		"Acceso retirado a {1}."
+		"fr"		"Accès retiré à {1}."
+		"ru"		"Доступ отозван: {1}."
+	}
+	"request_written"
+	{
+		"#format"	"{1:s}"
+		"en"		"Permanent access requested for {1}: the tool will add it."
+		"it"		"Accesso definitivo richiesto per {1}: lo aggiungerà il tool."
+		"de"		"Dauerhafter Zugang für {1} angefordert: Das Tool fügt ihn hinzu."
+		"es"		"Acceso permanente solicitado para {1}: la herramienta lo añadirá."
+		"fr"		"Accès permanent demandé pour {1} : l'outil l'ajoutera."
+		"ru"		"Запрошен постоянный доступ для {1}: инструмент его добавит."
+	}
+	"item_editor_access"
+	{
+		"#format"	"{1:s}"
+		"en"		"Editor access: {1}"
+		"it"		"Accesso all'editor: {1}"
+		"de"		"Zugang zum Editor: {1}"
+		"es"		"Acceso al editor: {1}"
+		"fr"		"Accès à l'éditeur : {1}"
+		"ru"		"Доступ к редактору: {1}"
+	}
+	"access_open"
+	{
+		"en"		"open"
+		"it"		"aperto"
+		"de"		"offen"
+		"es"		"abierto"
+		"fr"		"ouvert"
+		"ru"		"открыт"
+	}
+	"access_closed"
+	{
+		"en"		"closed (owner only)"
+		"it"		"chiuso (solo proprietario)"
+		"de"		"geschlossen (nur Besitzer)"
+		"es"		"cerrado (solo el propietario)"
+		"fr"		"fermé (propriétaire seulement)"
+		"ru"		"закрыт (только владелец)"
+	}
+	"editor_closed"
+	{
+		"en"		"The Stripper Map Editor is closed by the owner."
+		"it"		"Lo Stripper Map Editor è chiuso dal proprietario."
+		"de"		"Der Stripper Map Editor ist vom Besitzer geschlossen."
+		"es"		"El propietario ha cerrado el Stripper Map Editor."
+		"fr"		"Le Stripper Map Editor est fermé par le propriétaire."
+		"ru"		"Владелец закрыл Stripper Map Editor."
+	}
+	"editor_full"
+	{
+		"#format"	"{1:d}"
+		"en"		"The editor is full ({1} people)."
+		"it"		"L'editor è pieno ({1} persone)."
+		"de"		"Der Editor ist voll ({1} Personen)."
+		"es"		"El editor está lleno ({1} personas)."
+		"fr"		"L'éditeur est plein ({1} personnes)."
+		"ru"		"Редактор заполнен ({1} чел.)."
+	}
+	"hint_in_use"
+	{
+		"#format"	"{1:s},{2:d},{3:N}"
+		"en"		"{1} #{2} is in use by {3}"
+		"it"		"{1} #{2} è in uso da {3}"
+		"de"		"{1} #{2} wird von {3} benutzt"
+		"es"		"{1} #{2} en uso por {3}"
+		"fr"		"{1} #{2} utilisé par {3}"
+		"ru"		"{1} #{2} использует {3}"
+	}
+	"coop_joined"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} joined the editor."
+		"it"		"{1} è entrato nell'editor."
+		"de"		"{1} hat den Editor betreten."
+		"es"		"{1} ha entrado en el editor."
+		"fr"		"{1} est entré dans l'éditeur."
+		"ru"		"{1} вошёл в редактор."
+	}
+	"coop_left"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} left the editor."
+		"it"		"{1} è uscito dall'editor."
+		"de"		"{1} hat den Editor verlassen."
+		"es"		"{1} ha salido del editor."
+		"fr"		"{1} a quitté l'éditeur."
+		"ru"		"{1} вышел из редактора."
+	}
+	"item_coop"
+	{
+		"#format"	"{1:s}"
+		"en"		"Cooperative mode: {1}"
+		"it"		"Modalità cooperativa: {1}"
+		"de"		"Koop-Modus: {1}"
+		"es"		"Modo cooperativo: {1}"
+		"fr"		"Mode coopératif : {1}"
+		"ru"		"Кооперативный режим: {1}"
+	}
+	"coop_on"
+	{
+		"en"		"Cooperative mode on: up to 4 people can edit together."
+		"it"		"Modalità cooperativa accesa: fino a 4 persone possono modificare insieme."
+		"de"		"Koop-Modus an: bis zu 4 Personen können gemeinsam bearbeiten."
+		"es"		"Modo cooperativo activado: hasta 4 personas pueden editar juntas."
+		"fr"		"Mode coopératif activé : jusqu'à 4 personnes peuvent éditer ensemble."
+		"ru"		"Кооперативный режим включён: до 4 человек могут редактировать вместе."
+	}
+	"coop_off"
+	{
+		"en"		"Cooperative mode off: whoever is inside stays; new people wait until the editor is free."
+		"it"		"Modalità cooperativa spenta: chi è dentro resta; gli altri aspettano che l'editor sia libero."
+		"de"		"Koop-Modus aus: Wer drin ist, bleibt; neue Leute warten, bis der Editor frei ist."
+		"es"		"Modo cooperativo desactivado: quien está dentro se queda; los nuevos esperan a que el editor quede libre."
+		"fr"		"Mode coopératif désactivé : ceux qui sont dedans restent ; les nouveaux attendent que l'éditeur soit libre."
+		"ru"		"Кооперативный режим выключен: кто внутри, остаётся; новые ждут, пока редактор освободится."
+	}
+	"only_alone"
+	{
+		"en"		"Other people are in the editor: only the owner can do this now. Ask them."
+		"it"		"Ci sono altre persone nell'editor: adesso può farlo solo il proprietario. Chiedi a lui."
+		"de"		"Andere Leute sind im Editor: Das kann jetzt nur der Besitzer. Frag ihn."
+		"es"		"Hay otras personas en el editor: ahora solo el propietario puede hacerlo. Pídeselo."
+		"fr"		"D'autres personnes sont dans l'éditeur : seul le propriétaire peut le faire maintenant. Demande-lui."
+		"ru"		"В редакторе есть другие люди: сейчас это может только владелец. Попроси его."
+	}
+	"owner_changes_map"
+	{
+		"#format"	"{1:N}"
+		"en"		"{1} (owner) is changing the whole map: your object was released."
+		"it"		"{1} (proprietario) sta cambiando tutta la mappa: il tuo oggetto è stato lasciato."
+		"de"		"{1} (Besitzer) ändert die ganze Karte: Dein Objekt wurde losgelassen."
+		"es"		"{1} (propietario) está cambiando todo el mapa: tu objeto se ha soltado."
+		"fr"		"{1} (propriétaire) modifie toute la carte : ton objet a été lâché."
+		"ru"		"{1} (владелец) меняет всю карту: твой предмет отпущен."
+	}
+	"panel_not_yours"
+	{
+		"en"		"The top panel is shared and follows the owner: your choice is saved for when you edit alone."
+		"it"		"Il pannello in alto è uno per tutti e segue il proprietario: la tua scelta resta salvata per quando lavori da solo."
+		"de"		"Das obere Panel ist für alle gleich und folgt dem Besitzer: Deine Wahl bleibt für die Arbeit allein gespeichert."
+		"es"		"El panel superior es el mismo para todos y sigue al propietario: tu elección queda guardada para cuando trabajes solo."
+		"fr"		"Le panneau du haut est le même pour tous et suit le propriétaire : ton choix reste enregistré pour quand tu travailles seul."
+		"ru"		"Верхняя панель общая для всех и следует за владельцем: твой выбор сохранён для работы в одиночку."
+	}
+	"editor_spectator"
+	{
+		"en"		"You are a spectator: to edit as a survivor, type in console: jointeam 2 <bot name> (e.g. jointeam 2 Coach)."
+		"it"		"Sei spettatore: per modificare da sopravvissuto scrivi in console: jointeam 2 <nome del bot> (per esempio jointeam 2 Coach)."
+		"de"		"Du bist Zuschauer: Um als Überlebender zu bearbeiten, schreib in die Konsole: jointeam 2 <Bot-Name> (z. B. jointeam 2 Coach)."
+		"es"		"Eres espectador: para editar como superviviente escribe en la consola: jointeam 2 <nombre del bot> (p. ej. jointeam 2 Coach)."
+		"fr"		"Tu es spectateur : pour éditer en survivant, écris dans la console : jointeam 2 <nom du bot> (ex. jointeam 2 Coach)."
+		"ru"		"Ты зритель: чтобы редактировать за выжившего, напиши в консоли: jointeam 2 <имя бота> (напр. jointeam 2 Coach)."
+	}
+	"hint_list_in_use"
+	{
+		"en"		"The grey objects are in use by another player (name in brackets)."
+		"it"		"Gli oggetti grigi sono in uso da un altro giocatore (nome tra parentesi)."
+		"de"		"Die grauen Objekte werden von einem anderen Spieler benutzt (Name in Klammern)."
+		"es"		"Los objetos en gris los usa otro jugador (nombre entre paréntesis)."
+		"fr"		"Les objets en gris sont utilisés par un autre joueur (nom entre parenthèses)."
+		"ru"		"Серые предметы использует другой игрок (имя в скобках)."
+	}
+	"coop_published"
+	{
+		"#format"	"{1:N},{2:d}"
+		"en"		"{1} published the map to the server ({2} moved objects)."
+		"it"		"{1} ha pubblicato la mappa sul server ({2} oggetti spostati)."
+		"de"		"{1} hat die Karte auf dem Server veröffentlicht ({2} verschobene Objekte)."
+		"es"		"{1} ha publicado el mapa en el servidor ({2} objetos movidos)."
+		"fr"		"{1} a publié la carte sur le serveur ({2} objets déplacés)."
+		"ru"		"{1} опубликовал карту на сервере (перемещено предметов: {2})."
+	}
+	"reload_title_editor"
+	{
+		"#format"	"{1:d}"
+		"en"		"Start the Zombie Foundry Stripper Map Editor?\nWith the top panel the map reloads for everyone ({1} players) and you come back in by yourself.\nWithout it you start right away."
+		"it"		"Avviare lo Zombie Foundry Stripper Map Editor?\nCon il pannello in alto la mappa si ricarica per tutti ({1} giocatori) e rientri da solo.\nSenza, parti subito."
+		"de"		"Zombie Foundry Stripper Map Editor starten?\nMit dem oberen Panel wird die Karte für alle neu geladen ({1} Spieler) und du kommst von selbst zurück.\nOhne startest du sofort."
+		"es"		"¿Iniciar el Zombie Foundry Stripper Map Editor?\nCon el panel superior el mapa se recarga para todos ({1} jugadores) y vuelves solo.\nSin él empiezas enseguida."
+		"fr"		"Lancer le Zombie Foundry Stripper Map Editor ?\nAvec le panneau du haut, la carte se recharge pour tous ({1} joueurs) et tu reviens tout seul.\nSans, tu commences tout de suite."
+		"ru"		"Запустить Zombie Foundry Stripper Map Editor?\nС верхней панелью карта перезагрузится для всех (игроков: {1}), и ты вернёшься сам.\nБез неё начнёшь сразу."
+	}
+	"reload_title"
+	{
+		"#format"	"{1:d}"
+		"en"		"Reload the map?\nIt reloads for everyone ({1} players); whoever is in the editor comes back in by itself."
+		"it"		"Ricaricare la mappa?\nSi ricarica per tutti ({1} giocatori); chi è nell'editor rientra da solo."
+		"de"		"Karte neu laden?\nSie wird für alle neu geladen ({1} Spieler); wer im Editor ist, kommt von selbst zurück."
+		"es"		"¿Recargar el mapa?\nSe recarga para todos ({1} jugadores); quien esté en el editor vuelve solo."
+		"fr"		"Recharger la carte ?\nElle se recharge pour tous ({1} joueurs) ; ceux qui sont dans l'éditeur reviennent tout seuls."
+		"ru"		"Перезагрузить карту?\nОна перезагрузится для всех (игроков: {1}); кто в редакторе, вернётся сам."
+	}
+	"reload_no"
+	{
+		"en"		"No, go back"
+		"it"		"No, torna indietro"
+		"de"		"Nein, zurück"
+		"es"		"No, volver"
+		"fr"		"Non, retour"
+		"ru"		"Нет, назад"
+	}
+	"reload_yes"
+	{
+		"en"		"Yes, reload the map"
+		"it"		"Sì, ricarica la mappa"
+		"de"		"Ja, Karte neu laden"
+		"es"		"Sí, recargar el mapa"
+		"fr"		"Oui, recharger la carte"
+		"ru"		"Да, перезагрузить карту"
+	}
+	"item_change_map"
+	{
+		"en"		"Change map"
+		"it"		"Cambia mappa"
+		"de"		"Karte wechseln"
+		"es"		"Cambiar de mapa"
+		"fr"		"Changer de carte"
+		"ru"		"Сменить карту"
+	}
+	"item_page_first"
+	{
+		"en"		"First page"
+		"it"		"Prima pagina"
+		"de"		"Erste Seite"
+		"es"		"Primera página"
+		"fr"		"Première page"
+		"ru"		"Первая страница"
+	}
+	"map_pick_campaign"
+	{
+		"en"		"Change map · choose the campaign"
+		"it"		"Cambia mappa · scegli la campagna"
+		"de"		"Karte wechseln · Kampagne wählen"
+		"es"		"Cambiar de mapa · elige la campaña"
+		"fr"		"Changer de carte · choisis la campagne"
+		"ru"		"Сменить карту · выбери кампанию"
+	}
+	"map_pick_chapter"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} · choose the map"
+		"it"		"{1} · scegli la mappa"
+		"de"		"{1} · Karte wählen"
+		"es"		"{1} · elige el mapa"
+		"fr"		"{1} · choisis la carte"
+		"ru"		"{1} · выбери карту"
+	}
+	"map_confirm_title"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"Change the map to {1}?\nIt changes for everyone ({2} players); whoever is in the editor comes back in by itself."
+		"it"		"Cambiare la mappa in {1}?\nCambia per tutti ({2} giocatori); chi è nell'editor rientra da solo."
+		"de"		"Karte zu {1} wechseln?\nSie wechselt für alle ({2} Spieler); wer im Editor ist, kommt von selbst zurück."
+		"es"		"¿Cambiar el mapa a {1}?\nCambia para todos ({2} jugadores); quien esté en el editor vuelve solo."
+		"fr"		"Passer à la carte {1} ?\nElle change pour tous ({2} joueurs) ; ceux qui sont dans l'éditeur reviennent tout seuls."
+		"ru"		"Сменить карту на {1}?\nОна сменится для всех (игроков: {2}); кто в редакторе, вернётся сам."
+	}
+	"map_change_yes"
+	{
+		"en"		"Yes, change the map"
+		"it"		"Sì, cambia la mappa"
+		"de"		"Ja, Karte wechseln"
+		"es"		"Sí, cambiar de mapa"
+		"fr"		"Oui, changer de carte"
+		"ru"		"Да, сменить карту"
+	}
+	"map_changing"
+	{
+		"#format"	"{1:s}"
+		"en"		"Changing the map to {1} in 3 seconds..."
+		"it"		"Cambio la mappa in {1} fra 3 secondi..."
+		"de"		"Wechsle die Karte zu {1} in 3 Sekunden..."
+		"es"		"Cambiando el mapa a {1} en 3 segundos..."
+		"fr"		"Changement de carte vers {1} dans 3 secondes..."
+		"ru"		"Смена карты на {1} через 3 секунды..."
+	}
+	"editor_reopened"
+	{
+		"#format"	"{1:s}"
+		"en"		"The Stripper Map Editor is open again. To enter, type in chat: {1}"
+		"it"		"Lo Stripper Map Editor è di nuovo aperto. Per entrare scrivi in chat: {1}"
+		"de"		"Der Stripper Map Editor ist wieder offen. Zum Betreten schreib in den Chat: {1}"
+		"es"		"El Stripper Map Editor vuelve a estar abierto. Para entrar escribe en el chat: {1}"
+		"fr"		"Le Stripper Map Editor est de nouveau ouvert. Pour entrer, écris dans le chat : {1}"
+		"ru"		"Stripper Map Editor снова открыт. Чтобы войти, напиши в чат: {1}"
+	}
+	"settings_title"
+	{
+		"en"		"Settings"
+		"it"		"Impostazioni"
+		"de"		"Einstellungen"
+		"es"		"Ajustes"
+		"fr"		"Paramètres"
+		"ru"		"Настройки"
+	}
+	"settings_title_sec"
+	{
+		"#format"	"{1:s}"
+		"en"		"Settings · {1}"
+		"it"		"Impostazioni · {1}"
+		"de"		"Einstellungen · {1}"
+		"es"		"Ajustes · {1}"
+		"fr"		"Paramètres · {1}"
+		"ru"		"Настройки · {1}"
+	}
+	"settings_sec_work"
+	{
+		"en"		"Work"
+		"it"		"Lavoro"
+		"de"		"Arbeit"
+		"es"		"Trabajo"
+		"fr"		"Travail"
+		"ru"		"Работа"
+	}
+	"settings_sec_look"
+	{
+		"en"		"Appearance"
+		"it"		"Aspetto"
+		"de"		"Darstellung"
+		"es"		"Aspecto"
+		"fr"		"Apparence"
+		"ru"		"Внешний вид"
+	}
+	"settings_sec_server"
+	{
+		"en"		"Server (owner)"
+		"it"		"Server (proprietario)"
+		"de"		"Server (Besitzer)"
+		"es"		"Servidor (propietario)"
+		"fr"		"Serveur (propriétaire)"
+		"ru"		"Сервер (владелец)"
+	}
+	"start_with_hud"
+	{
+		"en"		"With the top panel (reloads the map)"
+		"it"		"Con il pannello in alto (ricarica la mappa)"
+		"de"		"Mit oberem Panel (lädt die Karte neu)"
+		"es"		"Con el panel superior (recarga el mapa)"
+		"fr"		"Avec le panneau du haut (recharge la carte)"
+		"ru"		"С верхней панелью (перезагружает карту)"
+	}
+	"start_without_hud"
+	{
+		"en"		"Without the panel (start now)"
+		"it"		"Senza pannello (parti subito)"
+		"de"		"Ohne Panel (sofort starten)"
+		"es"		"Sin panel (empezar enseguida)"
+		"fr"		"Sans panneau (commencer tout de suite)"
+		"ru"		"Без панели (начать сразу)"
+	}
+	"hint_map_locked"
+	{
+		"en"		"Locked while the map is being edited: it works again after the map reloads."
+		"it"		"Bloccato mentre si modifica la mappa: torna a funzionare quando la mappa si ricarica."
+		"de"		"Gesperrt, während die Karte bearbeitet wird: Funktioniert wieder, nachdem die Karte neu geladen wurde."
+		"es"		"Bloqueado mientras se edita el mapa: vuelve a funcionar cuando se recargue el mapa."
+		"fr"		"Bloqué pendant l'édition de la carte : fonctionne de nouveau après le rechargement de la carte."
+		"ru"		"Заблокировано во время редактирования карты: снова заработает после перезагрузки карты."
+	}
+	"editor_closed_reload"
+	{
+		"en"		"Editor closed: the map reloads in 3 seconds (normal game)."
+		"it"		"Editor chiuso: la mappa si ricarica fra 3 secondi (partita normale)."
+		"de"		"Editor geschlossen: Die Karte wird in 3 Sekunden neu geladen (normales Spiel)."
+		"es"		"Editor cerrado: el mapa se recarga en 3 segundos (partida normal)."
+		"fr"		"Éditeur fermé : la carte se recharge dans 3 secondes (partie normale)."
+		"ru"		"Редактор закрыт: карта перезагрузится через 3 секунды (обычная игра)."
+	}
+	"exit_title_reload"
+	{
+		"en"		"Exit the ZF Stripper Map Editor?\nYou are the last one: the map reloads for everyone (normal game)."
+		"it"		"Uscire dallo ZF Stripper Map Editor?\nSei l'ultimo: la mappa si ricarica per tutti (partita normale)."
+		"de"		"ZF Stripper Map Editor beenden?\nDu bist der Letzte: Die Karte wird für alle neu geladen (normales Spiel)."
+		"es"		"¿Salir del ZF Stripper Map Editor?\nEres el último: el mapa se recarga para todos (partida normal)."
+		"fr"		"Quitter le ZF Stripper Map Editor ?\nTu es le dernier : la carte se recharge pour tous (partie normale)."
+		"ru"		"Выйти из ZF Stripper Map Editor?\nТы последний: карта перезагрузится для всех (обычная игра)."
+	}
+	"only_in_game"
+	{
+		"en"		"[ZF] This command is only available in game."
+		"it"		"[ZF] Questo comando si usa solo in gioco."
+		"de"		"[ZF] Dieser Befehl ist nur im Spiel verfügbar."
+		"es"		"[ZF] Este comando solo está disponible en el juego."
+		"fr"		"[ZF] Cette commande n'est disponible qu'en jeu."
+		"ru"		"[ZF] Эта команда доступна только в игре."
+	}
+	"already_in_editor"
+	{
+		"#format"	"{1:s}"
+		"en"		"You are already in the Stripper Map Editor. To leave it: {1}"
+		"it"		"Sei già nello Stripper Map Editor. Per uscire: {1}"
+		"de"		"Du bist schon im Stripper Map Editor. Zum Verlassen: {1}"
+		"es"		"Ya estás en el Stripper Map Editor. Para salir: {1}"
+		"fr"		"Tu es déjà dans le Stripper Map Editor. Pour en sortir : {1}"
+		"ru"		"Ты уже в Stripper Map Editor. Чтобы выйти: {1}"
+	}
+	"not_in_editor"
+	{
+		"#format"	"{1:s}"
+		"en"		"You are not in the Stripper Map Editor. To enter it: {1}"
+		"it"		"Non sei nello Stripper Map Editor. Per entrare: {1}"
+		"de"		"Du bist nicht im Stripper Map Editor. Zum Betreten: {1}"
+		"es"		"No estás en el Stripper Map Editor. Para entrar: {1}"
+		"fr"		"Tu n'es pas dans le Stripper Map Editor. Pour y entrer : {1}"
+		"ru"		"Ты не в Stripper Map Editor. Чтобы войти: {1}"
+	}
+	"join_open_title"
+	{
+		"#format"	"{1:s}"
+		"en"		"Already in the editor: {1} (without the panel)."
+		"it"		"Nell'editor ci sono già: {1} (senza pannello)."
+		"de"		"Schon im Editor: {1} (ohne Panel)."
+		"es"		"Ya en el editor: {1} (sin panel)."
+		"fr"		"Déjà dans l'éditeur : {1} (sans panneau)."
+		"ru"		"Уже в редакторе: {1} (без панели)."
+	}
+	"join_open_join"
+	{
+		"en"		"Join without the panel (nothing changes for anyone)"
+		"it"		"Unisciti senza pannello (non cambia niente per nessuno)"
+		"de"		"Ohne Panel beitreten (für niemanden ändert sich etwas)"
+		"es"		"Unirse sin panel (no cambia nada para nadie)"
+		"fr"		"Rejoindre sans panneau (rien ne change pour personne)"
+		"ru"		"Присоединиться без панели (ни для кого ничего не меняется)"
+	}
+	"join_open_panel"
+	{
+		"en"		"Switch to the top panel - RELOADS THE MAP"
+		"it"		"Passa al pannello in alto - RICARICA LA MAPPA"
+		"de"		"Zum oberen Panel wechseln - LÄDT DIE KARTE NEU"
+		"es"		"Pasar al panel superior - RECARGA EL MAPA"
+		"fr"		"Passer au panneau du haut - RECHARGE LA CARTE"
+		"ru"		"Перейти к верхней панели - ПЕРЕЗАГРУЖАЕТ КАРТУ"
+	}
+	"panel_warn_title"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"WARNING: the map reloads for EVERYONE.\nThe game in progress stops. Other players in the server: {1} ({2}).\nWhoever is in the editor comes back in by themselves; unpublished changes stay saved."
+		"it"		"ATTENZIONE: la mappa si ricarica per TUTTI.\nLa partita in corso si interrompe. Altri giocatori nel server: {1} ({2}).\nChi è nell'editor rientra da solo; le modifiche non pubblicate restano salvate."
+		"de"		"ACHTUNG: Die Karte wird für ALLE neu geladen.\nDas laufende Spiel wird unterbrochen. Andere Spieler auf dem Server: {1} ({2}).\nWer im Editor ist, kommt von selbst zurück; unveröffentlichte Änderungen bleiben gespeichert."
+		"es"		"ATENCIÓN: el mapa se recarga para TODOS.\nLa partida en curso se interrumpe. Otros jugadores en el servidor: {1} ({2}).\nQuien esté en el editor vuelve solo; los cambios sin publicar quedan guardados."
+		"fr"		"ATTENTION : la carte se recharge pour TOUS.\nLa partie en cours s'interrompt. Autres joueurs sur le serveur : {1} ({2}).\nCeux qui sont dans l'éditeur reviennent tout seuls ; les modifications non publiées restent enregistrées."
+		"ru"		"ВНИМАНИЕ: карта перезагрузится для ВСЕХ.\nТекущая игра прервётся. Других игроков на сервере: {1} ({2}).\nКто в редакторе, вернётся сам; неопубликованные изменения сохранятся."
+	}
+	"panel_warn_no"
+	{
+		"en"		"No, go back"
+		"it"		"No, torna indietro"
+		"de"		"Nein, zurück"
+		"es"		"No, volver"
+		"fr"		"Non, retour"
+		"ru"		"Нет, назад"
+	}
+	"panel_warn_keep"
+	{
+		"en"		"Reload and keep them (they play with no infected while the editor is on)"
+		"it"		"Ricarica e portali con me (giocano senza infetti finché c'è l'editor)"
+		"de"		"Neu laden und mitnehmen (sie spielen ohne Infizierte, solange der Editor läuft)"
+		"es"		"Recargar y llevarlos conmigo (juegan sin infectados mientras esté el editor)"
+		"fr"		"Recharger et les garder (ils jouent sans infectés tant que l'éditeur est ouvert)"
+		"ru"		"Перезагрузить и взять их с собой (играют без заражённых, пока открыт редактор)"
+	}
+	"panel_warn_kick"
+	{
+		"en"		"Reload and send away those without editor access (server reserved)"
+		"it"		"Ricarica e manda via chi non ha accesso all'editor (server riservato)"
+		"de"		"Neu laden und alle ohne Editor-Zugang wegschicken (Server reserviert)"
+		"es"		"Recargar y echar a quien no tenga acceso al editor (servidor reservado)"
+		"fr"		"Recharger et renvoyer ceux qui n'ont pas accès à l'éditeur (serveur réservé)"
+		"ru"		"Перезагрузить и удалить тех, у кого нет доступа к редактору (сервер закрыт)"
+	}
+	"maint_kick"
+	{
+		"en"		"The server is under map maintenance: come back later."
+		"it"		"Il server è in manutenzione della mappa: torna più tardi."
+		"de"		"Der Server ist in Kartenwartung: Komm später wieder."
+		"es"		"El servidor está en mantenimiento del mapa: vuelve más tarde."
+		"fr"		"Le serveur est en maintenance de la carte : reviens plus tard."
+		"ru"		"На сервере обслуживание карты: зайди позже."
+	}
+	"item_undo_redo"
+	{
+		"#format"	"{1:s}"
+		"en"		"Undo · {1}+9: redo"
+		"it"		"Annulla · {1}+9: ripeti"
+		"de"		"Rückgängig · {1}+9: wiederholen"
+		"es"		"Deshacer · {1}+9: rehacer"
+		"fr"		"Annuler · {1}+9 : rétablir"
+		"ru"		"Отменить · {1}+9: повторить"
+	}
+	"key_walk"
+	{
+		"en"		"Walk"
+		"it"		"Cammina"
+		"de"		"Gehen"
+		"es"		"Caminar"
+		"fr"		"Marcher"
+		"ru"		"Шаг"
+	}
+	"hint_redo_key"
+	{
+		"en"		"Hold %+speed% and press 9 to redo."
+		"it"		"Tieni %+speed% e premi 9 per ripetere."
+		"de"		"Halte %+speed% und drück 9 zum Wiederholen."
+		"es"		"Mantén %+speed% y pulsa 9 para rehacer."
+		"fr"		"Maintiens %+speed% et appuie sur 9 pour rétablir."
+		"ru"		"Держи %+speed% и нажми 9, чтобы повторить."
+	}
+}

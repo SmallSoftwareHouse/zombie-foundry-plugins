@@ -1,0 +1,9 @@
+"zfstrippermapeditor"
+{
+	"base"			"survival"
+	"maxplayers"	"4"
+	"DisplayTitle"	"ZF Survival (editor)"
+	"Description"	"Survival for the Zombie Foundry Stripper Map Editor"
+	"Author"		"Zombie Foundry"
+	"Image"			"vgui/maps/zfstrippermapeditor"
+}

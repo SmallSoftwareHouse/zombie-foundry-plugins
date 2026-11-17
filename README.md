@@ -6,6 +6,7 @@ SourceMod plugins for Left 4 Dead 2 dedicated servers, free software under the
 | Plugin | What it does | Needs |
 |---|---|---|
 | [Zombie Foundry Core](core/) | Shared library for the other plugins (MOTD, player preferences, storage) | SourceMod |
+| [Stripper Map Editor](stripper-map-editor/) | Moves the map's items in game and writes the layout for Stripper:Source | SourceMod, Stripper:Source |
 | [Match Report](match-report/) | Per-round match statistics | SourceMod, Left4DHooks, Zombie Foundry Core |
 | [Tank Warning](tank-warning/) | Audio warning when a Tank aims and throws a rock | SourceMod, Left4DHooks, Zombie Foundry Core |
 
@@ -24,6 +25,10 @@ folders:
 
 Copy the compiled `.smx` files into `addons/sourcemod/plugins/` and the `translations/` files into
 `addons/sourcemod/translations/`.
+
+The Stripper Map Editor also has an optional game mode, `zfstrippermapeditor`: copy
+`stripper-map-editor/modes/zfstrippermapeditor.txt` into `left4dead2/modes/` and
+`stripper-map-editor/vscripts/zfstrippermapeditor.nut` into `left4dead2/scripts/vscripts/`.
 
 ## Sounds
 
