@@ -25,7 +25,7 @@
 #pragma semicolon 1
 #pragma newdecls required
 
-#define PLUGIN_VERSION "0.1.81"
+#define PLUGIN_VERSION "0.1.82"
 
 // VotePass details for a passed restart vote. The engine log says "RestartGame", but the
 // message measured in game (Survival) is restart_chapter; restart_game is
@@ -486,6 +486,14 @@ public void OnMapStart()
 
 public void OnConfigsExecuted()
 {
+	// The Zombie Foundry tool writes the page address in a file of its own,
+	// read after ours: it never has to touch zf_match_report.cfg, which
+	// SourceMod generates whole only when the file is missing.
+	if (FileExists("cfg/sourcemod/zf_match_report_tool.cfg"))
+	{
+		ServerCommand("exec sourcemod/zf_match_report_tool.cfg");
+	}
+
 	ZMR_UpdateDebugClockTimer();
 	ZMR_ApplyDevAllowPause();
 
