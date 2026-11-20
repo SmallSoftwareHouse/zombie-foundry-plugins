@@ -30,7 +30,7 @@
 #undef REQUIRE_PLUGIN
 #include <adminmenu>
 
-#define PLUGIN_VERSION "0.63.1"
+#define PLUGIN_VERSION "0.63.2"
 // Zombie Foundry folder on the server: addons/zombiefoundry, next to sourcemod. The paths are
 // relative to addons/sourcemod, hence the "../". The published file goes into stripper/maps.
 #define DATA_FOLDER  "../zombiefoundry/stripper-map-editor"
@@ -914,6 +914,14 @@ public Action Cmd_Edit(int client, int args)
 		Chat(client, "already_in_editor", sLeave);
 		if (GetClientMenu(client) == MenuSource_None)   // a menu already on screen stays where it is
 			MenuMain(client);
+		return Plugin_Handled;
+	}
+	// Every check reads the SteamID that Steam validated: until Steam has
+	// validated the player, nobody can be recognised, owner included.
+	if (!IsClientAuthorized(client))
+	{
+		LogEditor(client, "refused: Steam has not validated the player yet");
+		Chat(client, "steam_not_validated");
 		return Plugin_Handled;
 	}
 	if (!IsAuthorized(client))

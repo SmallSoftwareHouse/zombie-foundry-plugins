@@ -65,6 +65,15 @@
 		"fr"		"Vitesse : {1}"
 		"ru"		"Скорость: {1}"
 	}
+	"steam_not_validated"
+	{
+		"en"		"Steam has not recognised you yet: try again in a minute. If it lasts, rejoin the server."
+		"it"		"Steam non ti ha ancora riconosciuto: riprova fra un minuto. Se dura, rientra nel server."
+		"de"		"Steam hat dich noch nicht erkannt: versuch es in einer Minute erneut. Wenn es anhält, tritt dem Server neu bei."
+		"es"		"Steam aún no te ha reconocido: inténtalo dentro de un minuto. Si sigue, vuelve a entrar en el servidor."
+		"fr"		"Steam ne t'a pas encore reconnu : réessaie dans une minute. Si ça dure, reconnecte-toi au serveur."
+		"ru"		"Steam ещё не узнал тебя: попробуй через минуту. Если не проходит, перезайди на сервер."
+	}
 	"not_authorized"
 	{
 		"en"		"You are not authorized to use the Stripper Map Editor."
